@@ -1,0 +1,260 @@
+Source,Target
+Aatrox,Tryndamere
+Ahri,Wukong
+Akali,Kenen
+Akali,Shen
+Akali,Zed
+Akali,Jhin
+Alistar,Xin Zhao
+Amumu,Annie
+Anivia,Ashe
+Anivia,Lissandra
+Anivia,Nunu
+Anivia,Brand
+Anivia,Sejuani
+Ashe,Sejuani
+Ashe,Tryndamere
+Ashe,Nunu
+Ashe,Braum
+Ashe,Gragas
+Ashe,Trundle
+Aurelion Sol,Leona
+Aurelion Sol,Diana
+Aurelion Sol,Taric
+Aurelion Sol,Pantheon
+Azir,Nasus
+Azir,Sivir
+Azir,Xerath
+Azir,Renekton
+Azir,Taliyah
+Azir,Cassiopeia
+Blitzcrank,Orianna
+Blitzcrank,Viktor
+Brand,Ryze
+Brand,Lissandra
+Brand,Nasus
+Brand,Renekton
+Brand,Xerath
+Braum,Tryndamere
+Braum,Gragas
+Braum,Lissandra
+Caitlyn,Camille
+Caitlyn,Jayce
+Caitlyn,Ezreal
+Caitlyn,Vi
+Caitlyn,Jinx
+Caitlyn,Ekko
+Camille,Ezreal
+Camille,Jayce
+Camille,Viktor
+Camille,Ekko
+Camille,Vi
+Camille,Orianna
+Camille,Warwick
+Cassiopeia,Katarina
+Cassiopeia,Renekton
+Cassiopeia,Nasus
+Cassiopeia,Xerath
+Cassiopeia,Sivir
+Cassiopeia,Talon
+Cho'Gath,Kog'Maw
+Cho'Gath,Kha'Zix
+Cho'Gath,Vel'Koz
+Corki,Heimerdinger
+Corki,Veigar
+Darius,Draven
+Darius,Katarina
+Darius,Swain
+Darius,Vladimir
+Diana,Leona
+Diana,Taric
+Diana,Pantheon
+Dr. Mundo,Viktor
+Dr. Mundo,Singed
+Draven,Swain
+Ekko,Jinx
+Ekko,Vi
+Ekko,Viktor
+Ekko,Jayce
+Ekko,Janna
+Elise,Leblanc
+Elise,Vladimir
+Evelynn,Twisted Fate
+Ezreal,Lux
+Ezreal,Jayce
+Fiddlesticks,Nocturne
+Fiddlesticks,Shaco
+Fiora,Lux
+Fiora,Jax
+Fiora,Jarvan IV
+Fiora,Garen
+Fizz,Nami
+Fizz,Nautilus
+Galio,Poppy
+Galio,Kayle
+Galio,Shyvana
+Galio,Lux
+Galio,Ryze
+Galio,Sion
+Gangplank,Miss Fortune
+Gangplank,Swain
+Gangplank,Zed
+Gangplank,Illaoi
+Gangplank,Twisted Fate
+Gangplank,Graves
+Garen,Jarvan IV
+Garen,Lux
+Garen,Xin Zhao
+Garen,Katarina
+Garen,Swain
+Garen,Urgot
+Garen,Quinn
+Garen,Taric
+Gnar,Lulu
+Gnar,Heimerdinger
+Gnar,Rengar
+Gragas,Tryndamere
+Gragas,Jax
+Graves,Twisted Fate
+Graves,Miss Fortune
+Hecarim,Mordekaiser
+Hecarim,Yorick
+Hecarim,Thresh
+Hecarim,Kalista
+Hecarim,Miss Fortune
+Hecarim,Lucian
+Hecarim,Illaoi
+Heimerdinger,Ziggs
+Heimerdinger,Rumble
+Heimerdinger,Veigar
+Illaoi,Miss Fortune
+Irelia,Karma
+Irelia,Singed
+Irelia,Syndra
+Irelia,Soraka
+Jarvan IV,Shyvana
+Jarvan IV,Quinn
+Jarvan IV,Urgot
+Jarvan IV,Swain
+Jarvan IV,Xin Zhao
+Jarvan IV,Lux
+Jayce,Vi
+Jayce,Viktor
+Jayce,Skarner
+Jhin,Shen
+Jhin,Zed
+Jinx,Vi
+Kalista,Yorick
+Kalista,Thresh
+Kalista,Mordekaiser
+Karma,Lee Sin
+Karma,Syndra
+Karthus,Mordekaiser
+Karthus,Thresh
+Karthus,Yorick
+Karthus,Soraka
+Karthus,Kindred
+Kassadin,Malzahar
+Katarina,Sion
+Katarina,Talon
+Katarina,Swain
+Kayle,Morgana
+Kayn,Aatrox
+Kayn,Zed
+Kayn,Darius
+Kennen,Shen
+Kennen,Zed
+Kha'Zix,Kog'Maw
+Kha'Zix,Rengar
+Kha'Zix,Vel'Koz
+Kindred,Mordekaiser
+Kindred,Yorick
+Kog'Maw,Malzahar
+Kog'Maw,Vel'Koz
+Leblanc,Swain
+Lee Sin,Udyr
+Leona,Taric
+Leona,Pantheon
+Lissandra,Trundle
+Lissandra,Udyr
+Lissandra,Sejuani
+Lissandra,Tryndamere
+Lucian,Thresh
+Lucian,Miss Fortune
+Lucian,Olaf
+Lulu,Veigar
+Lux,Xin Zhao
+Malphite,Maokai
+Malphite,Skarner
+Malzahar,Ryze
+Maokai,Zyra
+Maokai,Yorick
+Master Yi,Wukong
+Master Yi,Singed
+Miss Fortune,Twisted Fate
+Miss Fortune,Olaf
+Miss Fortune,Ryze
+Nami,Nautilus
+Nasus,Sivir
+Nasus,Xerath
+Nasus,Renekton
+Nasus,Taliyah
+Nasus,Ryze
+Nidalee,Udyr
+Nidalee,Rengar
+Nocturne,Shaco
+Olaf,Sejuani
+Olaf,Volibear
+Orianna,Viktor
+Pantheon,Taric
+Poppy,Shyvana
+Quinn,Talon
+Rakan,Xayah
+Rakan,Zed
+Rakan,Lee Sin
+Rek'Sai,Skarner
+Renekton,Sivir
+Renekton,Xerath
+Riven,Singed
+Riven,Yasuo
+Rumble,Tristana
+Rumble,Ziggs
+Rumble,Teemo
+Rumble,Veigar
+Ryze,Trundle
+Ryze,Sona
+Sejuani,Udyr
+Sejuani,Volibear
+Sejuani,Tryndamere
+Sejuani,Trundle
+Shen,Zed
+Shyvana,Xin Zhao
+Singed,Warwick
+Sion,Swain
+Sion,Vayne
+Sion,Urgot
+Sivir,Taliyah
+Sivir,Xerath
+Sona,Taric
+Sona,Xin Zhao
+Swain,Vladimir
+Syndra,Zed
+Taliyah,Yasuo
+Taliyah,Xerath
+Teemo,Tristana
+Teemo,Veigar
+Thresh,Yorick
+Twitch,Zac
+Urgot,Camille
+Urgot,Swain
+Urgot,Ekko
+Urgot,Darius
+Vayne,Vladimir
+Vayne,Warwick
+Veigar,Kled
+Veigar,Ziggs
+Viktor,Urgot
+Volibear,Zilean
+Xayah,Zed
+Xayah,Lee Sin
+Zilean,Vel'Koz
