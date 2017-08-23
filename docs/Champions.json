@@ -1036,6 +1036,14 @@
   {
     "source": "Zilean",
     "target": "Vel'Koz"
+  },
+  {
+    "source": "Ornn",
+    "target": "Volibear"
+  },
+  {
+    "source": "Ornn",
+    "target": "Anivia"
   }
 ],
 	"nodes":[
@@ -1586,6 +1594,10 @@
   {
     "champion": "Zyra",
     "region": "Runeterra"
+  },
+  {
+    "champion": "Ornn",
+    "region": "Freljord"
   }
 ]
 }
