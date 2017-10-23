@@ -323,7 +323,15 @@
   },
   {
     "source": "Evelynn",
-    "target": "Twisted Fate"
+    "target": "Tham Kench"
+  },
+  {
+    "source": "Evelynn",
+    "target": "Vayne"
+  },
+  {
+    "source": "Evelynn",
+    "target": "Ryze"
   },
   {
     "source": "Ezreal",
@@ -1149,7 +1157,7 @@
   },
   {
     "champion": "Evelynn",
-    "region": "Shadow Isles"
+    "region": "Runeterra"
   },
   {
     "champion": "Ezreal",
