@@ -1,1801 +1,2019 @@
 {
 	"links":
-[
-  {
-    "source": "Aatrox",
-    "target": "Kayn"
-  },
-  {
-    "source": "Aatrox",
-    "target": "Varus"
-  },
-  {
-    "source": "Aatrox",
-    "target": "Tryndamere"
-  },
-  {
-    "source": "Ahri",
-    "target": "Wukong"
-  },
-  {
-    "source": "Akali",
-    "target": "Kennen"
-  },
-  {
-    "source": "Akali",
-    "target": "Shen"
-  },
-  {
-    "source": "Akali",
-    "target": "Zed"
-  },
-  {
-    "source": "Alistar",
-    "target": "Xin Zhao"
-  },
-  {
-    "source": "Anivia",
-    "target": "Ashe"
-  },
-  {
-    "source": "Anivia",
-    "target": "Lissandra"
-  },
-  {
-    "source": "Anivia",
-    "target": "Nunu & Willump"
-  },
-  {
-    "source": "Anivia",
-    "target": "Brand"
-  },
-  {
-    "source": "Anivia",
-    "target": "Sejuani"
-  },
-  {
-    "source": "Ashe",
-    "target": "Sejuani"
-  },
-  {
-    "source": "Ashe",
-    "target": "Tryndamere"
-  },
-  {
-    "source": "Aurelion Sol",
-    "target": "Leona"
-  },
-  {
-    "source": "Aurelion Sol",
-    "target": "Diana"
-  },
-  {
-    "source": "Aurelion Sol",
-    "target": "Taric"
-  },
-  {
-    "source": "Azir",
-    "target": "Nasus"
-  },
-  {
-    "source": "Azir",
-    "target": "Sivir"
-  },
-  {
-    "source": "Azir",
-    "target": "Xerath"
-  },
-  {
-    "source": "Azir",
-    "target": "Renekton"
-  },
-  {
-    "source": "Azir",
-    "target": "Taliyah"
-  },
-  {
-    "source": "Azir",
-    "target": "Cassiopeia"
-  },
-  {
-    "source": "Blitzcrank",
-    "target": "Orianna"
-  },
-  {
-    "source": "Blitzcrank",
-    "target": "Viktor"
-  },
-  {
-    "source": "Brand",
-    "target": "Ryze"
-  },
-  {
-    "source": "Brand",
-    "target": "Lissandra"
-  },
-  {
-    "source": "Brand",
-    "target": "Nasus"
-  },
-  {
-    "source": "Brand",
-    "target": "Renekton"
-  },
-  {
-    "source": "Brand",
-    "target": "Xerath"
-  },
-  {
-    "source": "Braum",
-    "target": "Ashe"
-  },
-  {
-    "source": "Braum",
-    "target": "Tryndamere"
-  },
-  {
-    "source": "Braum",
-    "target": "Gragas"
-  },
-  {
-    "source": "Braum",
-    "target": "Lissandra"
-  },
-  {
-    "source": "Caitlyn",
-    "target": "Camille"
-  },
-  {
-    "source": "Caitlyn",
-    "target": "Jayce"
-  },
-  {
-    "source": "Caitlyn",
-    "target": "Ezreal"
-  },
-  {
-    "source": "Caitlyn",
-    "target": "Vi"
-  },
-  {
-    "source": "Caitlyn",
-    "target": "Jinx"
-  },
-  {
-    "source": "Caitlyn",
-    "target": "Ekko"
-  },
-  {
-    "source": "Camille",
-    "target": "Ezreal"
-  },
-  {
-    "source": "Camille",
-    "target": "Jayce"
-  },
-  {
-    "source": "Camille",
-    "target": "Viktor"
-  },
-  {
-    "source": "Camille",
-    "target": "Vi"
-  },
-  {
-    "source": "Camille",
-    "target": "Ekko"
-  },
-  {
-    "source": "Camille",
-    "target": "Orianna"
-  },
-  {
-    "source": "Camille",
-    "target": "Warwick"
-  },
-  {
-    "source": "Cassiopeia",
-    "target": "Katarina"
-  },
-  {
-    "source": "Cassiopeia",
-    "target": "Renekton"
-  },
-  {
-    "source": "Cassiopeia",
-    "target": "Nasus"
-  },
-  {
-    "source": "Cassiopeia",
-    "target": "Xerath"
-  },
-  {
-    "source": "Cassiopeia",
-    "target": "Sivir"
-  },
-  {
-    "source": "Cassiopeia",
-    "target": "Talon"
-  },
-  {
-    "source": "Cho'Gath",
-    "target": "Kog'Maw"
-  },
-  {
-    "source": "Cho'Gath",
-    "target": "Kha'Zix"
-  },
-  {
-    "source": "Cho'Gath",
-    "target": "Vel'Koz"
-  },
-  {
-    "source": "Corki",
-    "target": "Heimerdinger"
-  },
-  {
-    "source": "Corki",
-    "target": "Veigar"
-  },
-  {
-    "source": "Darius",
-    "target": "Draven"
-  },
-  {
-    "source": "Darius",
-    "target": "Katarina"
-  },
-  {
-    "source": "Darius",
-    "target": "Swain"
-  },
-  {
-    "source": "Darius",
-    "target": "Vladimir"
-  },
-  {
-    "source": "Diana",
-    "target": "Leona"
-  },
-  {
-    "source": "Diana",
-    "target": "Taric"
-  },
-  {
-    "source": "Diana",
-    "target": "Pantheon"
-  },
-  {
-    "source": "Dr. Mundo",
-    "target": "Viktor"
-  },
-  {
-    "source": "Dr. Mundo",
-    "target": "Singed"
-  },
-  {
-    "source": "Draven",
-    "target": "Swain"
-  },
-  {
-    "source": "Ekko",
-    "target": "Jinx"
-  },
-  {
-    "source": "Ekko",
-    "target": "Vi"
-  },
-  {
-    "source": "Ekko",
-    "target": "Viktor"
-  },
-  {
-    "source": "Ekko",
-    "target": "Jayce"
-  },
-  {
-    "source": "Ekko",
-    "target": "Janna"
-  },
-  {
-    "source": "Elise",
-    "target": "Leblanc"
-  },
-  {
-    "source": "Elise",
-    "target": "Vladimir"
-  },
-  {
-    "source": "Evelynn",
-    "target": "Vayne"
-  },
-  {
-    "source": "Evelynn",
-    "target": "Tahm Kench"
-  },
-  {
-    "source": "Evelynn",
-    "target": "Ryze"
-  },
-  {
-    "source": "Ezreal",
-    "target": "Lux"
-  },
-  {
-    "source": "Ezreal",
-    "target": "Jayce"
-  },
-  {
-    "source": "Fiddlesticks",
-    "target": "Nocturne"
-  },
-  {
-    "source": "Fiddlesticks",
-    "target": "Shaco"
-  },
-  {
-    "source": "Fiora",
-    "target": "Lux"
-  },
-  {
-    "source": "Fiora",
-    "target": "Jax"
-  },
-  {
-    "source": "Fiora",
-    "target": "Jarvan IV"
-  },
-  {
-    "source": "Fiora",
-    "target": "Garen"
-  },
-  {
-    "source": "Fizz",
-    "target": "Illaoi"
-  },
-  {
-    "source": "Fizz",
-    "target": "Nami"
-  },
-  {
-    "source": "Fizz",
-    "target": "Nautilus"
-  },
-  {
-    "source": "Galio",
-    "target": "Poppy"
-  },
-  {
-    "source": "Galio",
-    "target": "Kayle"
-  },
-  {
-    "source": "Galio",
-    "target": "Shyvana"
-  },
-  {
-    "source": "Galio",
-    "target": "Lux"
-  },
-  {
-    "source": "Galio",
-    "target": "Ryze"
-  },
-  {
-    "source": "Galio",
-    "target": "Sion"
-  },
-  {
-    "source": "Gangplank",
-    "target": "Miss Fortune"
-  },
-  {
-    "source": "Gangplank",
-    "target": "Swain"
-  },
-  {
-    "source": "Gangplank",
-    "target": "Zed"
-  },
-  {
-    "source": "Gangplank",
-    "target": "Illaoi"
-  },
-  {
-    "source": "Gangplank",
-    "target": "Twisted Fate"
-  },
-  {
-    "source": "Gangplank",
-    "target": "Graves"
-  },
-  {
-    "source": "Garen",
-    "target": "Jarvan IV"
-  },
-  {
-    "source": "Garen",
-    "target": "Lux"
-  },
-  {
-    "source": "Garen",
-    "target": "Xin Zhao"
-  },
-  {
-    "source": "Garen",
-    "target": "Katarina"
-  },
-  {
-    "source": "Garen",
-    "target": "Swain"
-  },
-  {
-    "source": "Garen",
-    "target": "Urgot"
-  },
-  {
-    "source": "Garen",
-    "target": "Quinn"
-  },
-  {
-    "source": "Garen",
-    "target": "Taric"
-  },
-  {
-    "source": "Gnar",
-    "target": "Lulu"
-  },
-  {
-    "source": "Gnar",
-    "target": "Heimerdinger"
-  },
-  {
-    "source": "Gnar",
-    "target": "Rengar"
-  },
-  {
-    "source": "Gragas",
-    "target": "Tryndamere"
-  },
-  {
-    "source": "Gragas",
-    "target": "Jax"
-  },
-  {
-    "source": "Gragas",
-    "target": "Ashe"
-  },
-  {
-    "source": "Graves",
-    "target": "Twisted Fate"
-  },
-  {
-    "source": "Graves",
-    "target": "Miss Fortune"
-  },
-  {
-    "source": "Hecarim",
-    "target": "Mordekaiser"
-  },
-  {
-    "source": "Hecarim",
-    "target": "Yorick"
-  },
-  {
-    "source": "Hecarim",
-    "target": "Thresh"
-  },
-  {
-    "source": "Hecarim",
-    "target": "Kalista"
-  },
-  {
-    "source": "Hecarim",
-    "target": "Miss Fortune"
-  },
-  {
-    "source": "Hecarim",
-    "target": "Lucian"
-  },
-  {
-    "source": "Hecarim",
-    "target": "Illaoi"
-  },
-  {
-    "source": "Heimerdinger",
-    "target": "Ziggs"
-  },
-  {
-    "source": "Heimerdinger",
-    "target": "Rumble"
-  },
-  {
-    "source": "Heimerdinger",
-    "target": "Veigar"
-  },
-  {
-    "source": "Illaoi",
-    "target": "Miss Fortune"
-  },
-  {
-    "source": "Irelia",
-    "target": "Karma"
-  },
-  {
-    "source": "Irelia",
-    "target": "Swain"
-  },
-  {
-    "source": "Jarvan IV",
-    "target": "Shyvana"
-  },
-  {
-    "source": "Jarvan IV",
-    "target": "Quinn"
-  },
-  {
-    "source": "Jarvan IV",
-    "target": "Urgot"
-  },
-  {
-    "source": "Jarvan IV",
-    "target": "Swain"
-  },
-  {
-    "source": "Jarvan IV",
-    "target": "Xin Zhao"
-  },
-  {
-    "source": "Jarvan IV",
-    "target": "Lux"
-  },
-  {
-    "source": "Jayce",
-    "target": "Vi"
-  },
-  {
-    "source": "Jayce",
-    "target": "Viktor"
-  },
-  {
-    "source": "Jayce",
-    "target": "Skarner"
-  },
-  {
-    "source": "Jhin",
-    "target": "Shen"
-  },
-  {
-    "source": "Jhin",
-    "target": "Zed"
-  },
-  {
-    "source": "Jhin",
-    "target": "Akali"
-  },
-  {
-    "source": "Jinx",
-    "target": "Vi"
-  },
-  {
-    "source": "Kai'Sa",
-    "target": "Malzahar"
-  },
-  {
-    "source": "Kalista",
-    "target": "Yorick"
-  },
-  {
-    "source": "Kalista",
-    "target": "Thresh"
-  },
-  {
-    "source": "Kalista",
-    "target": "Mordekaiser"
-  },
-  {
-    "source": "Karma",
-    "target": "Lee Sin"
-  },
-  {
-    "source": "Karthus",
-    "target": "Mordekaiser"
-  },
-  {
-    "source": "Karthus",
-    "target": "Thresh"
-  },
-  {
-    "source": "Karthus",
-    "target": "Yorick"
-  },
-  {
-    "source": "Karthus",
-    "target": "Soraka"
-  },
-  {
-    "source": "Karthus",
-    "target": "Kindred"
-  },
-  {
-    "source": "Kassadin",
-    "target": "Malzahar"
-  },
-  {
-    "source": "Katarina",
-    "target": "Sion"
-  },
-  {
-    "source": "Katarina",
-    "target": "Talon"
-  },
-  {
-    "source": "Katarina",
-    "target": "Swain"
-  },
-  {
-    "source": "Kayle",
-    "target": "Morgana"
-  },
-  {
-    "source": "Kayn",
-    "target": "Varus"
-  },
-  {
-    "source": "Kayn",
-    "target": "Zed"
-  },
-  {
-    "source": "Kayn",
-    "target": "Darius"
-  },
-  {
-    "source": "Kennen",
-    "target": "Shen"
-  },
-  {
-    "source": "Kennen",
-    "target": "Zed"
-  },
-  {
-    "source": "Kha'Zix",
-    "target": "Kog'Maw"
-  },
-  {
-    "source": "Kha'Zix",
-    "target": "Rengar"
-  },
-  {
-    "source": "Kha'Zix",
-    "target": "Vel'Koz"
-  },
-  {
-    "source": "Kindred",
-    "target": "Mordekaiser"
-  },
-  {
-    "source": "Kindred",
-    "target": "Yorick"
-  },
-  {
-    "source": "Kog'Maw",
-    "target": "Malzahar"
-  },
-  {
-    "source": "Kog'Maw",
-    "target": "Vel'Koz"
-  },
-  {
-    "source": "Leblanc",
-    "target": "Swain"
-  },
-  {
-    "source": "Lee Sin",
-    "target": "Udyr"
-  },
-  {
-    "source": "Leona",
-    "target": "Taric"
-  },
-  {
-    "source": "Leona",
-    "target": "Pantheon"
-  },
-  {
-    "source": "Lissandra",
-    "target": "Trundle"
-  },
-  {
-    "source": "Lissandra",
-    "target": "Udyr"
-  },
-  {
-    "source": "Lissandra",
-    "target": "Sejuani"
-  },
-  {
-    "source": "Lissandra",
-    "target": "Tryndamere"
-  },
-  {
-    "source": "Lissandra",
-    "target": "Ashe"
-  },
-  {
-    "source": "Lucian",
-    "target": "Thresh"
-  },
-  {
-    "source": "Lucian",
-    "target": "Miss Fortune"
-  },
-  {
-    "source": "Lucian",
-    "target": "Olaf"
-  },
-  {
-    "source": "Lulu",
-    "target": "Veigar"
-  },
-  {
-    "source": "Lux",
-    "target": "Xin Zhao"
-  },
-  {
-    "source": "Malphite",
-    "target": "Maokai"
-  },
-  {
-    "source": "Malphite",
-    "target": "Skarner"
-  },
-  {
-    "source": "Maokai",
-    "target": "Zyra"
-  },
-  {
-    "source": "Maokai",
-    "target": "Yorick"
-  },
-  {
-    "source": "Master Yi",
-    "target": "Wukong"
-  },
-  {
-    "source": "Master Yi",
-    "target": "Singed"
-  },
-  {
-    "source": "Miss Fortune",
-    "target": "Twisted Fate"
-  },
-  {
-    "source": "Miss Fortune",
-    "target": "Olaf"
-  },
-  {
-    "source": "Miss Fortune",
-    "target": "Ryze"
-  },
-  {
-    "source": "Nami",
-    "target": "Nautilus"
-  },
-  {
-    "source": "Nasus",
-    "target": "Sivir"
-  },
-  {
-    "source": "Nasus",
-    "target": "Xerath"
-  },
-  {
-    "source": "Nasus",
-    "target": "Renekton"
-  },
-  {
-    "source": "Nasus",
-    "target": "Taliyah"
-  },
-  {
-    "source": "Nasus",
-    "target": "Ryze"
-  },
-  {
-    "source": "Nautilus",
-    "target": "Tahm Kench"
-  },
-  {
-    "source": "Nidalee",
-    "target": "Udyr"
-  },
-  {
-    "source": "Nidalee",
-    "target": "Rengar"
-  },
-  {
-    "source": "Nocturne",
-    "target": "Shaco"
-  },
-  {
-    "source": "Nunu & Willump",
-    "target": "Lissandra"
-  },
-  {
-    "source": "Olaf",
-    "target": "Sejuani"
-  },
-  {
-    "source": "Olaf",
-    "target": "Volibear"
-  },
-  {
-    "source": "Orianna",
-    "target": "Viktor"
-  },
-  {
-    "source": "Ornn",
-    "target": "Volibear"
-  },
-  {
-    "source": "Ornn",
-    "target": "Anivia"
-  },
-  {
-    "source": "Pantheon",
-    "target": "Taric"
-  },
-  {
-    "source": "Poppy",
-    "target": "Shyvana"
-  },
-  {
-    "source": "Pyke",
-    "target": "Gangplank"
-  },
-  {
-    "source": "Pyke",
-    "target": "Miss Fortune"
-  },
-  {
-    "source": "Quinn",
-    "target": "Talon"
-  },
-  {
-    "source": "Rakan",
-    "target": "Xayah"
-  },
-  {
-    "source": "Rakan",
-    "target": "Zed"
-  },
-  {
-    "source": "Rakan",
-    "target": "Lee Sin"
-  },
-  {
-    "source": "Rek'Sai",
-    "target": "Skarner"
-  },
-  {
-    "source": "Renekton",
-    "target": "Xerath"
-  },
-  {
-    "source": "Renekton",
-    "target": "Sivir"
-  },
-  {
-    "source": "Riven",
-    "target": "Leblanc"
-  },
-  {
-    "source": "Riven",
-    "target": "Yasuo"
-  },
-  {
-    "source": "Rumble",
-    "target": "Tristana"
-  },
-  {
-    "source": "Rumble",
-    "target": "Ziggs"
-  },
-  {
-    "source": "Rumble",
-    "target": "Teemo"
-  },
-  {
-    "source": "Rumble",
-    "target": "Veigar"
-  },
-  {
-    "source": "Ryze",
-    "target": "Trundle"
-  },
-  {
-    "source": "Ryze",
-    "target": "Sona"
-  },
-  {
-    "source": "Ryze",
-    "target": "Malzahar"
-  },
-  {
-    "source": "Sejuani",
-    "target": "Udyr"
-  },
-  {
-    "source": "Sejuani",
-    "target": "Volibear"
-  },
-  {
-    "source": "Sejuani",
-    "target": "Tryndamere"
-  },
-  {
-    "source": "Sejuani",
-    "target": "Trundle"
-  },
-  {
-    "source": "Shen",
-    "target": "Zed"
-  },
-  {
-    "source": "Shyvana",
-    "target": "Xin Zhao"
-  },
-  {
-    "source": "Singed",
-    "target": "Warwick"
-  },
-  {
-    "source": "Singed",
-    "target": "Irelia"
-  },
-  {
-    "source": "Singed",
-    "target": "Riven"
-  },
-  {
-    "source": "Sion",
-    "target": "Swain"
-  },
-  {
-    "source": "Sion",
-    "target": "Jarvan IV"
-  },
-  {
-    "source": "Sion",
-    "target": "Vayne"
-  },
-  {
-    "source": "Sion",
-    "target": "Urgot"
-  },
-  {
-    "source": "Sivir",
-    "target": "Xerath"
-  },
-  {
-    "source": "Sivir",
-    "target": "Taliyah"
-  },
-  {
-    "source": "Sona",
-    "target": "Taric"
-  },
-  {
-    "source": "Sona",
-    "target": "Xin Zhao"
-  },
-  {
-    "source": "Soraka",
-    "target": "Irelia"
-  },
-  {
-    "source": "Swain",
-    "target": "Vladimir"
-  },
-  {
-    "source": "Syndra",
-    "target": "Irelia"
-  },
-  {
-    "source": "Syndra",
-    "target": "Karma"
-  },
-  {
-    "source": "Tahm Kench",
-    "target": "Fizz"
-  },
-  {
-    "source": "Tahm Kench",
-    "target": "Pyke"
-  },
-  {
-    "source": "Taliyah",
-    "target": "Xerath"
-  },
-  {
-    "source": "Teemo",
-    "target": "Tristana"
-  },
-  {
-    "source": "Teemo",
-    "target": "Veigar"
-  },
-  {
-    "source": "Thresh",
-    "target": "Yorick"
-  },
-  {
-    "source": "Trundle",
-    "target": "Ashe"
-  },
-  {
-    "source": "Twitch",
-    "target": "Zac"
-  },
-  {
-    "source": "Urgot",
-    "target": "Swain"
-  },
-  {
-    "source": "Urgot",
-    "target": "Ekko"
-  },
-  {
-    "source": "Urgot",
-    "target": "Camille"
-  },
-  {
-    "source": "Urgot",
-    "target": "Darius"
-  },
-  {
-    "source": "Vayne",
-    "target": "Vladimir"
-  },
-  {
-    "source": "Vayne",
-    "target": "Warwick"
-  },
-  {
-    "source": "Veigar",
-    "target": "Ziggs"
-  },
-  {
-    "source": "Veigar",
-    "target": "Kled"
-  },
-  {
-    "source": "Vel'Koz",
-    "target": "Zilean"
-  },
-  {
-    "source": "Viktor",
-    "target": "Urgot"
-  },
-  {
-    "source": "Volibear",
-    "target": "Zilean"
-  },
-  {
-    "source": "Xayah",
-    "target": "Zed"
-  },
-  {
-    "source": "Xayah",
-    "target": "Lee Sin"
-  },
-  {
-    "source": "Yasuo",
-    "target": "Taliyah"
-  },
-  {
-    "source": "Zoe",
-    "target": "Aurelion Sol"
-  },
-  {
-    "source": "Zoe",
-    "target": "Pantheon"
-  }
-],
-	"nodes":[
-    {
-      "champion": "Aatrox",
-      "region": "Runeterra"
-    },
-    {
-      "champion": "Ahri",
-      "region": "Ionia"
-    },
-    {
-      "champion": "Akali",
-      "region": "Ionia"
-    },
-    {
-      "champion": "Alistar",
-      "region": "Runeterra"
-    },
-    {
-      "champion": "Amumu",
-      "region": "Shurima"
-    },
-    {
-      "champion": "Anivia",
-      "region": "Freljord"
-      
-    },
-    {
-      "champion": "Annie",
-      "region": "Runeterra"
-      
-    },
-    {
-      "champion": "Ashe",
-      "region": "Freljord"
-      
-    },
-    {
-      "champion": "Aurelion Sol",
-      "region": "Runeterra"
-      
-    },
-    {
-      "champion": "Azir",
-      "region": "Shurima"
-      
-    },
-    {
-      "champion": "Bard",
-      "region": "Runeterra"
-      
-    },
-    {
-      "champion": "Blitzcrank",
-      "region": "Zaun"
-      
-    },
-    {
-      "champion": "Brand",
-      "region": "Runeterra"
-      
-    },
-    {
-      "champion": "Braum",
-      "region": "Freljord"
-      
-    },
-    {
-      "champion": "Caitlyn",
-      "region": "Piltover"
-      
-    },
-    {
-      "champion": "Camille",
-      "region": "Piltover"
-      
-    },
-    {
-      "champion": "Cassiopeia",
-      "region": "Noxus"
-      
-    },
-    {
-      "champion": "Cho'Gath",
-      "region": "Void"
-      
-    },
-    {
-      "champion": "Corki",
-      "region": "Bandle City"
-      
-    },
-    {
-      "champion": "Darius",
-      "region": "Noxus"
-      
-    },
-    {
-      "champion": "Diana",
-      "region": "Mount Targon"
-      
-    },
-    {
-      "champion": "Dr. Mundo",
-      "region": "Zaun"
-      
-    },
-    {
-      "champion": "Draven",
-      "region": "Noxus"
-      
-    },
-    {
-      "champion": "Ekko",
-      "region": "Zaun"
-      
-    },
-    {
-      "champion": "Elise",
-      "region": "Shadow Isles"
-      
-    },
-    {
-      "champion": "Evelynn",
-      "region": "Shadow Isles"
-      
-    },
-    {
-      "champion": "Ezreal",
-      "region": "Piltover"
-      
-    },
-    {
-      "champion": "Fiddlesticks",
-      "region": "Runeterra"
-      
-    },
-    {
-      "champion": "Fiora",
-      "region": "Demacia"
-      
-    },
-    {
-      "champion": "Fizz",
-      "region": "Runeterra"
-      
-    },
-    {
-      "champion": "Galio",
-      "region": "Demacia"
-      
-    },
-    {
-      "champion": "Gangplank",
-      "region": "Bligewater"
-    },
-    {
-      "champion": "Garen",
-      "region": "Demacia"
-      
-    },
-    {
-      "champion": "Gnar",
-      "region": "Runeterra"
-      
-    },
-    {
-      "champion": "Gragas",
-      "region": "Runeterra"
-    },
-    {
-      "champion": "Graves",
-      "region": "Bligewater"
-    },
-    {
-      "champion": "Hecarim",
-      "region": "Shadow Isles"
-    },
-    {
-      "champion": "Heimerdinger",
-      "region": "Piltover"
-      
-    },
-    {
-      "champion": "Illaoi",
-      "region": "Bligewater"
-      
-    },
-    {
-      "champion": "Irelia",
-      "region": "Ionia"
-      
-    },
-    {
-      "champion": "Ivern",
-      "region": "Runeterra"
-      
-    },
-    {
-      "champion": "Janna",
-      "region": "Zaun"
-      
-    },
-    {
-      "champion": "Jarvan IV",
-      "region": "Demacia"
-      
-    },
-    {
-      "champion": "Jax",
-      "region": "Runeterra"
-      
-    },
-    {
-      "champion": "Jayce",
-      "region": "Piltover"
-      
-    },
-    {
-      "champion": "Jhin",
-      "region": "Ionia"
-      
-    },
-    {
-      "champion": "Jinx",
-      "region": "Zaun"
-      
-    },
-    {
-      "champion": "Kai'Sa",
-      "region": "Void"
-      
-    },
-    {
-      "champion": "Kalista",
-      "region": "Shadow Isles"
-      
-    },
-    {
-      "champion": "Karma",
-      "region": "Ionia"
-      
-    },
-    {
-      "champion": "Karthus",
-      "region": "Shadow Isles"
-      
-    },
-    {
-      "champion": "Kassadin",
-      "region": "Void"
-      
-    },
-    {
-      "champion": "Katarina",
-      "region": "Noxus"
-      
-    },
-    {
-      "champion": "Kayle",
-      "region": "Runeterra"
-      
-    },
-    {
-      "champion": "Kayn",
-      "region": "Ionia"
-      
-    },
-    {
-      "champion": "Kennen",
-      "region": "Ionia"
-      
-    },
-    {
-      "champion": "Kha'Zix",
-      "region": "Void"
-      
-    },
-    {
-      "champion": "Kindred",
-      "region": "Runeterra"
-      
-    },
-    {
-      "champion": "Kled",
-      "region": "Noxus"
-      
-    },
-    {
-      "champion": "Kog'Maw",
-      "region": "Void"
-      
-    },
-    {
-      "champion": "Leblanc",
-      "region": "Noxus"
-      
-    },
-    {
-      "champion": "Lee Sin",
-      "region": "Ionia"
-      
-    },
-    {
-      "champion": "Leona",
-      "region": "Mount Targon"
-      
-    },
-    {
-      "champion": "Lissandra",
-      "region": "Freljord"
-      
-    },
-    {
-      "champion": "Lucian",
-      "region": "Demacia"
-      
-    },
-    {
-      "champion": "Lulu",
-      "region": "Bandle City"
-      
-    },
-    {
-      "champion": "Lux",
-      "region": "Demacia"
-      
-    },
-    {
-      "champion": "Malphite",
-      "region": "Runeterra"
-      
-    },
-    {
-      "champion": "Malzahar",
-      "region": "Void"
-      
-    },
-    {
-      "champion": "Maokai",
-      "region": "Shadow Isles"
-      
-    },
-    {
-      "champion": "Master Yi",
-      "region": "Ionia"
-      
-    },
-    {
-      "champion": "Miss Fortune",
-      "region": "Bligewater"
-      
-    },
-    {
-      "champion": "Mordekaiser",
-      "region": "Shadow Isles"
-      
-    },
-    {
-      "champion": "Morgana",
-      "region": "Runeterra"
-      
-    },
-    {
-      "champion": "Nami",
-      "region": "Runeterra"      
-    },
-    {
-      "champion": "Nasus",
-      "region": "Shurima"      
-    },
-    {
-      "champion": "Nautilus",
-      "region": "Bligewater"
-      
-    },
-    {
-      "champion": "Nidalee",
-      "region": "Runeterra"
-      
-    },
-    {
-      "champion": "Nocturne",
-      "region": "Runeterra"
-      
-    },
-    {
-      "champion": "Nunu & Willump",
-      "region": "Freljord"
-      
-    },
-    {
-      "champion": "Olaf",
-      "region": "Freljord"
-      
-    },
-    {
-      "champion": "Orianna",
-      "region": "Piltover"
-      
-    },
-    {
-      "champion": "Ornn",
-      "region": "Freljord"
-      
-    },
-    {
-      "champion": "Pantheon",
-      "region": "Mount Targon"
-      
-    },
-    {
-      "champion": "Poppy",
-      "region": "Demacia"
-      
-    },
-    {
-      "champion": "Pyke",
-      "region": "Bligewater"
-      
-    },
-    {
-      "champion": "Quinn",
-      "region": "Demacia"
-      
-    },
-    {
-      "champion": "Rakan",
-      "region": "Ionia"
-      
-    },
-    {
-      "champion": "Rammus",
-      "region": "Shurima"
-      
-    },
-    {
-      "champion": "Rek'Sai",
-      "region": "Void"
-      
-    },
-    {
-      "champion": "Renekton",
-      "region": "Shurima"
-      
-    },
-    {
-      "champion": "Rengar",
-      "region": "Runeterra"
-      
-    },
-    {
-      "champion": "Riven",
-      "region": "Noxus"
-      
-    },
-    {
-      "champion": "Rumble",
-      "region": "Bandle City"
-      
-    },
-    {
-      "champion": "Ryze",
-      "region": "Runeterra"
-      
-    },
-    {
-      "champion": "Sejuani",
-      "region": "Freljord"
-      
-    },
-    {
-      "champion": "Shaco",
-      "region": "Runeterra"
-      
-    },
-    {
-      "champion": "Shen",
-      "region": "Ionia"
-      
-    },
-    {
-      "champion": "Shyvana",
-      "region": "Demacia"
-      
-    },
-    {
-      "champion": "Singed",
-      "region": "Zaun"
-      
-    },
-    {
-      "champion": "Sion",
-      "region": "Noxus"
-      
-    },
-    {
-      "champion": "Sivir",
-      "region": "Shurima"
-      
-    },
-    {
-      "champion": "Skarner",
-      "region": "Shurima"
-      
-    },
-    {
-      "champion": "Sona",
-      "region": "Demacia"
-      
-    },
-    {
-      "champion": "Soraka",
-      "region": "Ionia"
-      
-    },
-    {
-      "champion": "Swain",
-      "region": "Noxus"
-      
-    },
-    {
-      "champion": "Syndra",
-      "region": "Ionia"
-      
-    },
-    {
-      "champion": "Tahm Kench",
-      "region": "Runeterra"
-      
-    },
-    {
-      "champion": "Taliyah",
-      "region": "Shurima"
-      
-    },
-    {
-      "champion": "Talon",
-      "region": "Noxus"
-      
-    },
-    {
-      "champion": "Taric",
-      "region": "Mount Targon"
-      
-    },
-    {
-      "champion": "Teemo",
-      "region": "Bandle City"
-      
-    },
-    {
-      "champion": "Thresh",
-      "region": "Shadow Isles"
-      
-    },
-    {
-      "champion": "Tristana",
-      "region": "Bandle City"
-      
-    },
-    {
-      "champion": "Trundle",
-      "region": "Freljord"
-      
-    },
-    {
-      "champion": "Tryndamere",
-      "region": "Freljord"
-      
-    },
-    {
-      "champion": "Twisted Fate",
-      "region": "Bligewater"
-      
-    },
-    {
-      "champion": "Twitch",
-      "region": "Zaun"
-      
-    },
-    {
-      "champion": "Udyr",
-      "region": "Freljord"
-      
-    },
-    {
-      "champion": "Urgot",
-      "region": "Zaun"
-      
-    },
-    {
-      "champion": "Varus",
-      "region": "Ionia"
-      
-    },
-    {
-      "champion": "Vayne",
-      "region": "Demacia"
-      
-    },
-    {
-      "champion": "Veigar",
-      "region": "Bandle City"
-      
-    },
-    {
-      "champion": "Vel'Koz",
-      "region": "Void"
-      
-    },
-    {
-      "champion": "Vi",
-      "region": "Piltover"
-      
-    },
-    {
-      "champion": "Viktor",
-      "region": "Zaun"
-      
-    },
-    {
-      "champion": "Vladimir",
-      "region": "Noxus"
-      
-    },
-    {
-      "champion": "Volibear",
-      "region": "Freljord"
-      
-    },
-    {
-      "champion": "Warwick",
-      "region": "Zaun"
-      
-    },
-    {
-      "champion": "Wukong",
-      "region": "Ionia"
-      
-    },
-    {
-      "champion": "Xayah",
-      "region": "Ionia"
-      
-    },
-    {
-      "champion": "Xerath",
-      "region": "Shurima"
-      
-    },
-    {
-      "champion": "Xin Zhao",
-      "region": "Demacia"
-      
-    },
-    {
-      "champion": "Yasuo",
-      "region": "Ionia"
-      
-    },
-    {
-      "champion": "Yorick",
-      "region": "Shadow Isles"
-      
-    },
-    {
-      "champion": "Zac",
-      "region": "Zaun"
-      
-    },
-    {
-      "champion": "Zed",
-      "region": "Ionia"
-      
-    },
-    {
-      "champion": "Ziggs",
-      "region": "Zaun"
-      
-    },
-    {
-      "champion": "Zilean",
-      "region": "Runeterra"
-      
-    },
-    {
-      "champion": "Zoe",
-      "region": "Mount Targon"
-      
-    },
-    {
-      "champion": "Zyra",
-      "region": "Runeterra"
-      
+  [
+    {
+      "source": "Aatrox",
+      "target": "Kayn"
+    },
+    {
+      "source": "Aatrox",
+      "target": "Varus"
+    },
+    {
+      "source": "Aatrox",
+      "target": "Tryndamere"
+    },
+    {
+      "source": "Ahri",
+      "target": "Wukong"
+    },
+    {
+      "source": "Akali",
+      "target": "Kennen"
+    },
+    {
+      "source": "Akali",
+      "target": "Shen"
+    },
+    {
+      "source": "Akali",
+      "target": "Zed"
+    },
+    {
+      "source": "Akali",
+      "target": "Jhin"
+    },
+    {
+      "source": "Alistar",
+      "target": "Xin Zhao"
+    },
+    {
+      "source": "Anivia",
+      "target": "Ashe"
+    },
+    {
+      "source": "Anivia",
+      "target": "Lissandra"
+    },
+    {
+      "source": "Anivia",
+      "target": "Nunu & Willump"
+    },
+    {
+      "source": "Anivia",
+      "target": "Brand"
+    },
+    {
+      "source": "Anivia",
+      "target": "Sejuani"
+    },
+    {
+      "source": "Ashe",
+      "target": "Sejuani"
+    },
+    {
+      "source": "Ashe",
+      "target": "Tryndamere"
+    },
+    {
+      "source": "Ashe",
+      "target": "Braum"
+    },
+    {
+      "source": "Ashe",
+      "target": "Lissandra"
+    },
+    {
+      "source": "Aurelion Sol",
+      "target": "Leona"
+    },
+    {
+      "source": "Aurelion Sol",
+      "target": "Diana"
+    },
+    {
+      "source": "Aurelion Sol",
+      "target": "Taric"
+    },
+    {
+      "source": "Aurelion Sol",
+      "target": "Pantheon"
+    },
+    {
+      "source": "Azir",
+      "target": "Nasus"
+    },
+    {
+      "source": "Azir",
+      "target": "Sivir"
+    },
+    {
+      "source": "Azir",
+      "target": "Xerath"
+    },
+    {
+      "source": "Azir",
+      "target": "Renekton"
+    },
+    {
+      "source": "Azir",
+      "target": "Taliyah"
+    },
+    {
+      "source": "Azir",
+      "target": "Cassiopeia"
+    },
+    {
+      "source": "Blitzcrank",
+      "target": "Orianna"
+    },
+    {
+      "source": "Blitzcrank",
+      "target": "Viktor"
+    },
+    {
+      "source": "Brand",
+      "target": "Ryze"
+    },
+    {
+      "source": "Brand",
+      "target": "Anivia"
+    },
+    {
+      "source": "Brand",
+      "target": "Lissandra"
+    },
+    {
+      "source": "Brand",
+      "target": "Nasus"
+    },
+    {
+      "source": "Brand",
+      "target": "Renekton"
+    },
+    {
+      "source": "Brand",
+      "target": "Xerath"
+    },
+    {
+      "source": "Braum",
+      "target": "Tryndamere"
+    },
+    {
+      "source": "Braum",
+      "target": "Gragas"
+    },
+    {
+      "source": "Braum",
+      "target": "Lissandra"
+    },
+    {
+      "source": "Caitlyn",
+      "target": "Camille"
+    },
+    {
+      "source": "Caitlyn",
+      "target": "Jayce"
+    },
+    {
+      "source": "Caitlyn",
+      "target": "Ezreal"
+    },
+    {
+      "source": "Caitlyn",
+      "target": "Vi"
+    },
+    {
+      "source": "Caitlyn",
+      "target": "Jinx"
+    },
+    {
+      "source": "Caitlyn",
+      "target": "Ekko"
+    },
+    {
+      "source": "Camille",
+      "target": "Ezreal"
+    },
+    {
+      "source": "Camille",
+      "target": "Jayce"
+    },
+    {
+      "source": "Camille",
+      "target": "Viktor"
+    },
+    {
+      "source": "Camille",
+      "target": "Vi"
+    },
+    {
+      "source": "Camille",
+      "target": "Ekko"
+    },
+    {
+      "source": "Camille",
+      "target": "Orianna"
+    },
+    {
+      "source": "Camille",
+      "target": "Warwick"
+    },
+    {
+      "source": "Cassiopeia",
+      "target": "Katarina"
+    },
+    {
+      "source": "Cassiopeia",
+      "target": "Renekton"
+    },
+    {
+      "source": "Cassiopeia",
+      "target": "Nasus"
+    },
+    {
+      "source": "Cassiopeia",
+      "target": "Xerath"
+    },
+    {
+      "source": "Cassiopeia",
+      "target": "Sivir"
+    },
+    {
+      "source": "Cassiopeia",
+      "target": "Talon"
+    },
+    {
+      "source": "Cho'Gath",
+      "target": "Kog'Maw"
+    },
+    {
+      "source": "Cho'Gath",
+      "target": "Kha'Zix"
+    },
+    {
+      "source": "Cho'Gath",
+      "target": "Vel'Koz"
+    },
+    {
+      "source": "Corki",
+      "target": "Heimerdinger"
+    },
+    {
+      "source": "Corki",
+      "target": "Veigar"
+    },
+    {
+      "source": "Darius",
+      "target": "Draven"
+    },
+    {
+      "source": "Darius",
+      "target": "Katarina"
+    },
+    {
+      "source": "Darius",
+      "target": "Swain"
+    },
+    {
+      "source": "Darius",
+      "target": "Vladimir"
+    },
+    {
+      "source": "Diana",
+      "target": "Leona"
+    },
+    {
+      "source": "Diana",
+      "target": "Taric"
+    },
+    {
+      "source": "Diana",
+      "target": "Pantheon"
+    },
+    {
+      "source": "Dr. Mundo",
+      "target": "Viktor"
+    },
+    {
+      "source": "Dr. Mundo",
+      "target": "Singed"
+    },
+    {
+      "source": "Draven",
+      "target": "Swain"
+    },
+    {
+      "source": "Ekko",
+      "target": "Jinx"
+    },
+    {
+      "source": "Ekko",
+      "target": "Vi"
+    },
+    {
+      "source": "Ekko",
+      "target": "Viktor"
+    },
+    {
+      "source": "Ekko",
+      "target": "Jayce"
+    },
+    {
+      "source": "Ekko",
+      "target": "Janna"
+    },
+    {
+      "source": "Elise",
+      "target": "Leblanc"
+    },
+    {
+      "source": "Elise",
+      "target": "Vladimir"
+    },
+    {
+      "source": "Evelynn",
+      "target": "Vayne"
+    },
+    {
+      "source": "Evelynn",
+      "target": "Tahm Kench"
+    },
+    {
+      "source": "Evelynn",
+      "target": "Ryze"
+    },
+    {
+      "source": "Ezreal",
+      "target": "Kassadin"
+    },
+    {
+      "source": "Ezreal",
+      "target": "Lux"
+    },
+    {
+      "source": "Ezreal",
+      "target": "Rek'Sai"
+    },
+    {
+      "source": "Fiddlesticks",
+      "target": "Nocturne"
+    },
+    {
+      "source": "Fiddlesticks",
+      "target": "Shaco"
+    },
+    {
+      "source": "Fiora",
+      "target": "Lux"
+    },
+    {
+      "source": "Fiora",
+      "target": "Jax"
+    },
+    {
+      "source": "Fiora",
+      "target": "Jarvan IV"
+    },
+    {
+      "source": "Fiora",
+      "target": "Garen"
+    },
+    {
+      "source": "Fizz",
+      "target": "Illaoi"
+    },
+    {
+      "source": "Fizz",
+      "target": "Nami"
+    },
+    {
+      "source": "Fizz",
+      "target": "Nautilus"
+    },
+    {
+      "source": "Galio",
+      "target": "Kayle"
+    },
+    {
+      "source": "Galio",
+      "target": "Morgana"
+    },
+    {
+      "source": "Galio",
+      "target": "Lux"
+    },
+    {
+      "source": "Galio",
+      "target": "Sylas"
+    },
+    {
+      "source": "Gangplank",
+      "target": "Miss Fortune"
+    },
+    {
+      "source": "Gangplank",
+      "target": "Swain"
+    },
+    {
+      "source": "Gangplank",
+      "target": "Zed"
+    },
+    {
+      "source": "Gangplank",
+      "target": "Illaoi"
+    },
+    {
+      "source": "Gangplank",
+      "target": "Twisted Fate"
+    },
+    {
+      "source": "Gangplank",
+      "target": "Graves"
+    },
+    {
+      "source": "Garen",
+      "target": "Jarvan IV"
+    },
+    {
+      "source": "Garen",
+      "target": "Lux"
+    },
+    {
+      "source": "Garen",
+      "target": "Quinn"
+    },
+    {
+      "source": "Gnar",
+      "target": "Nunu & Willump"
+    },
+    {
+      "source": "Gnar",
+      "target": "Rengar"
+    },
+    {
+      "source": "Gragas",
+      "target": "Tryndamere"
+    },
+    {
+      "source": "Gragas",
+      "target": "Jax"
+    },
+    {
+      "source": "Gragas",
+      "target": "Ashe"
+    },
+    {
+      "source": "Graves",
+      "target": "Twisted Fate"
+    },
+    {
+      "source": "Graves",
+      "target": "Miss Fortune"
+    },
+    {
+      "source": "Hecarim",
+      "target": "Yorick"
+    },
+    {
+      "source": "Hecarim",
+      "target": "Thresh"
+    },
+    {
+      "source": "Hecarim",
+      "target": "Kalista"
+    },
+    {
+      "source": "Heimerdinger",
+      "target": "Corki"
+    },
+    {
+      "source": "Heimerdinger",
+      "target": "Gnar"
+    },
+    {
+      "source": "Heimerdinger",
+      "target": "Ziggs"
+    },
+    {
+      "source": "Heimerdinger",
+      "target": "Rumble"
+    },
+    {
+      "source": "Heimerdinger",
+      "target": "Veigar"
+    },
+    {
+      "source": "Illaoi",
+      "target": "Miss Fortune"
+    },
+    {
+      "source": "Irelia",
+      "target": "Karma"
+    },
+    {
+      "source": "Irelia",
+      "target": "Swain"
+    },
+    {
+      "source": "Jarvan IV",
+      "target": "Garen"
+    },
+    {
+      "source": "Jarvan IV",
+      "target": "Shyvana"
+    },
+    {
+      "source": "Jarvan IV",
+      "target": "Xin Zhao"
+    },
+    {
+      "source": "Jarvan IV",
+      "target": "Lux"
+    },
+    {
+      "source": "Jayce",
+      "target": "Vi"
+    },
+    {
+      "source": "Jayce",
+      "target": "Viktor"
+    },
+    {
+      "source": "Jayce",
+      "target": "Skarner"
+    },
+    {
+      "source": "Jhin",
+      "target": "Shen"
+    },
+    {
+      "source": "Jhin",
+      "target": "Zed"
+    },
+    {
+      "source": "Jhin",
+      "target": "Akali"
+    },
+    {
+      "source": "Jinx",
+      "target": "Vi"
+    },
+    {
+      "source": "Kai'Sa",
+      "target": "Malzahar"
+    },
+    {
+      "source": "Kalista",
+      "target": "Yorick"
+    },
+    {
+      "source": "Kalista",
+      "target": "Thresh"
+    },
+    {
+      "source": "Kalista",
+      "target": "Mordekaiser"
+    },
+    {
+      "source": "Karma",
+      "target": "Lee Sin"
+    },
+    {
+      "source": "Karthus",
+      "target": "Mordekaiser"
+    },
+    {
+      "source": "Karthus",
+      "target": "Thresh"
+    },
+    {
+      "source": "Karthus",
+      "target": "Yorick"
+    },
+    {
+      "source": "Karthus",
+      "target": "Soraka"
+    },
+    {
+      "source": "Karthus",
+      "target": "Kindred"
+    },
+    {
+      "source": "Kassadin",
+      "target": "Malzahar"
+    },
+    {
+      "source": "Katarina",
+      "target": "Sion"
+    },
+    {
+      "source": "Katarina",
+      "target": "Talon"
+    },
+    {
+      "source": "Katarina",
+      "target": "Garen"
+    },
+    {
+      "source": "Katarina",
+      "target": "Swain"
+    },
+    {
+      "source": "Kayle",
+      "target": "Taric"
+    },
+    {
+      "source": "Kayle",
+      "target": "Morgana"
+    },
+    {
+      "source": "Kayn",
+      "target": "Varus"
+    },
+    {
+      "source": "Kayn",
+      "target": "Zed"
+    },
+    {
+      "source": "Kayn",
+      "target": "Darius"
+    },
+    {
+      "source": "Kennen",
+      "target": "Shen"
+    },
+    {
+      "source": "Kennen",
+      "target": "Zed"
+    },
+    {
+      "source": "Kha'Zix",
+      "target": "Kog'Maw"
+    },
+    {
+      "source": "Kha'Zix",
+      "target": "Rengar"
+    },
+    {
+      "source": "Kha'Zix",
+      "target": "Vel'Koz"
+    },
+    {
+      "source": "Kindred",
+      "target": "Mordekaiser"
+    },
+    {
+      "source": "Kindred",
+      "target": "Yorick"
+    },
+    {
+      "source": "Kog'Maw",
+      "target": "Malzahar"
+    },
+    {
+      "source": "Kog'Maw",
+      "target": "Vel'Koz"
+    },
+    {
+      "source": "Leblanc",
+      "target": "Swain"
+    },
+    {
+      "source": "Lee Sin",
+      "target": "Udyr"
+    },
+    {
+      "source": "Leona",
+      "target": "Taric"
+    },
+    {
+      "source": "Leona",
+      "target": "Pantheon"
+    },
+    {
+      "source": "Lissandra",
+      "target": "Sejuani"
+    },
+    {
+      "source": "Lissandra",
+      "target": "Nunu & Willump"
+    },
+    {
+      "source": "Lucian",
+      "target": "Thresh"
+    },
+    {
+      "source": "Lucian",
+      "target": "Miss Fortune"
+    },
+    {
+      "source": "Lucian",
+      "target": "Olaf"
+    },
+    {
+      "source": "Lulu",
+      "target": "Veigar"
+    },
+    {
+      "source": "Lux",
+      "target": "Xin Zhao"
+    },
+    {
+      "source": "Malphite",
+      "target": "Maokai"
+    },
+    {
+      "source": "Malphite",
+      "target": "Skarner"
+    },
+    {
+      "source": "Maokai",
+      "target": "Zyra"
+    },
+    {
+      "source": "Maokai",
+      "target": "Yorick"
+    },
+    {
+      "source": "Master Yi",
+      "target": "Wukong"
+    },
+    {
+      "source": "Master Yi",
+      "target": "Singed"
+    },
+    {
+      "source": "Miss Fortune",
+      "target": "Twisted Fate"
+    },
+    {
+      "source": "Miss Fortune",
+      "target": "Olaf"
+    },
+    {
+      "source": "Miss Fortune",
+      "target": "Ryze"
+    },
+    {
+      "source": "Morgana",
+      "target": "Taric"
+    },
+    {
+      "source": "Nami",
+      "target": "Nautilus"
+    },
+    {
+      "source": "Nasus",
+      "target": "Sivir"
+    },
+    {
+      "source": "Nasus",
+      "target": "Xerath"
+    },
+    {
+      "source": "Nasus",
+      "target": "Renekton"
+    },
+    {
+      "source": "Nasus",
+      "target": "Taliyah"
+    },
+    {
+      "source": "Nasus",
+      "target": "Ryze"
+    },
+    {
+      "source": "Nautilus",
+      "target": "Tahm Kench"
+    },
+    {
+      "source": "Neeko",
+      "target": "Nidalee"
+    },
+    {
+      "source": "Neeko",
+      "target": "Rengar"
+    },
+    {
+      "source": "Neeko",
+      "target": "Ezreal"
+    },
+    {
+      "source": "Nidalee",
+      "target": "Rengar"
+    },
+    {
+      "source": "Nocturne",
+      "target": "Evelynn"
+    },
+    {
+      "source": "Nocturne",
+      "target": "Tahm Kench"
+    },
+    {
+      "source": "Nocturne",
+      "target": "Zed"
+    },
+    {
+      "source": "Nunu & Willump",
+      "target": "Lissandra"
+    },
+    {
+      "source": "Olaf",
+      "target": "Sejuani"
+    },
+    {
+      "source": "Olaf",
+      "target": "Volibear"
+    },
+    {
+      "source": "Orianna",
+      "target": "Viktor"
+    },
+    {
+      "source": "Ornn",
+      "target": "Volibear"
+    },
+    {
+      "source": "Ornn",
+      "target": "Anivia"
+    },
+    {
+      "source": "Pantheon",
+      "target": "Taric"
+    },
+    {
+      "source": "Poppy",
+      "target": "Shyvana"
+    },
+    {
+      "source": "Pyke",
+      "target": "Gangplank"
+    },
+    {
+      "source": "Pyke",
+      "target": "Miss Fortune"
+    },
+    {
+      "source": "Quinn",
+      "target": "Talon"
+    },
+    {
+      "source": "Rakan",
+      "target": "Xayah"
+    },
+    {
+      "source": "Rakan",
+      "target": "Zed"
+    },
+    {
+      "source": "Rakan",
+      "target": "Lee Sin"
+    },
+    {
+      "source": "Rek'Sai",
+      "target": "Skarner"
+    },
+    {
+      "source": "Renekton",
+      "target": "Xerath"
+    },
+    {
+      "source": "Renekton",
+      "target": "Sivir"
+    },
+    {
+      "source": "Riven",
+      "target": "Leblanc"
+    },
+    {
+      "source": "Riven",
+      "target": "Yasuo"
+    },
+    {
+      "source": "Rumble",
+      "target": "Tristana"
+    },
+    {
+      "source": "Rumble",
+      "target": "Ziggs"
+    },
+    {
+      "source": "Rumble",
+      "target": "Teemo"
+    },
+    {
+      "source": "Rumble",
+      "target": "Veigar"
+    },
+    {
+      "source": "Ryze",
+      "target": "Trundle"
+    },
+    {
+      "source": "Ryze",
+      "target": "Sona"
+    },
+    {
+      "source": "Ryze",
+      "target": "Malzahar"
+    },
+    {
+      "source": "Shaco",
+      "target": "Nocturne"
+    },
+    {
+      "source": "Shen",
+      "target": "Zed"
+    },
+    {
+      "source": "Shyvana",
+      "target": "Sona"
+    },
+    {
+      "source": "Shyvana",
+      "target": "Xin Zhao"
+    },
+    {
+      "source": "Singed",
+      "target": "Warwick"
+    },
+    {
+      "source": "Singed",
+      "target": "Irelia"
+    },
+    {
+      "source": "Singed",
+      "target": "Riven"
+    },
+    {
+      "source": "Sion",
+      "target": "Swain"
+    },
+    {
+      "source": "Sion",
+      "target": "Jarvan IV"
+    },
+    {
+      "source": "Sion",
+      "target": "Galio"
+    },
+    {
+      "source": "Sion",
+      "target": "Vayne"
+    },
+    {
+      "source": "Sion",
+      "target": "Urgot"
+    },
+    {
+      "source": "Sivir",
+      "target": "Taliyah"
+    },
+    {
+      "source": "Sona",
+      "target": "Taric"
+    },
+    {
+      "source": "Sona",
+      "target": "Xin Zhao"
+    },
+    {
+      "source": "Soraka",
+      "target": "Aurelion Sol"
+    },
+    {
+      "source": "Soraka",
+      "target": "Syndra"
+    },
+    {
+      "source": "Soraka",
+      "target": "Warwick"
+    },
+    {
+      "source": "Swain",
+      "target": "Vladimir"
+    },
+    {
+      "source": "Sylas",
+      "target": "Lux"
+    },
+    {
+      "source": "Sylas",
+      "target": "Galio"
+    },
+    {
+      "source": "Syndra",
+      "target": "Irelia"
+    },
+    {
+      "source": "Syndra",
+      "target": "Karma"
+    },
+    {
+      "source": "Tahm Kench",
+      "target": "Fizz"
+    },
+    {
+      "source": "Tahm Kench",
+      "target": "Pyke"
+    },
+    {
+      "source": "Taliyah",
+      "target": "Yasuo"
+    },
+    {
+      "source": "Taliyah",
+      "target": "Xerath"
+    },
+    {
+      "source": "Taric",
+      "target": "Garen"
+    },
+    {
+      "source": "Teemo",
+      "target": "Tristana"
+    },
+    {
+      "source": "Teemo",
+      "target": "Veigar"
+    },
+    {
+      "source": "Thresh",
+      "target": "Yorick"
+    },
+    {
+      "source": "Trundle",
+      "target": "Ashe"
+    },
+    {
+      "source": "Trundle",
+      "target": "Lissandra"
+    },
+    {
+      "source": "Trundle",
+      "target": "Sejuani"
+    },
+    {
+      "source": "Twitch",
+      "target": "Zac"
+    },
+    {
+      "source": "Udyr",
+      "target": "Sejuani"
+    },
+    {
+      "source": "Udyr",
+      "target": "Lissandra"
+    },
+    {
+      "source": "Urgot",
+      "target": "Swain"
+    },
+    {
+      "source": "Urgot",
+      "target": "Ekko"
+    },
+    {
+      "source": "Urgot",
+      "target": "Camille"
+    },
+    {
+      "source": "Urgot",
+      "target": "Darius"
+    },
+    {
+      "source": "Vayne",
+      "target": "Vladimir"
+    },
+    {
+      "source": "Vayne",
+      "target": "Warwick"
+    },
+    {
+      "source": "Veigar",
+      "target": "Mordekaiser"
+    },
+    {
+      "source": "Veigar",
+      "target": "Leblanc"
+    },
+    {
+      "source": "Vel'Koz",
+      "target": "Rek'Sai"
+    },
+    {
+      "source": "Viktor",
+      "target": "Urgot"
+    },
+    {
+      "source": "Vladimir",
+      "target": "Kayn"
+    },
+    {
+      "source": "Volibear",
+      "target": "Sejuani"
+    },
+    {
+      "source": "Volibear",
+      "target": "Zilean"
+    },
+    {
+      "source": "Xayah",
+      "target": "Zed"
+    },
+    {
+      "source": "Xayah",
+      "target": "Lee Sin"
+    },
+    {
+      "source": "Yuumi",
+      "target": "Lulu"
+    },
+    {
+      "source": "Yuumi",
+      "target": "Tristana"
+    },
+    {
+      "source": "Yuumi",
+      "target": "Teemo"
+    },
+    {
+      "source": "Zilean",
+      "target": "Vel'Koz"
+    },
+    {
+      "source": "Zoe",
+      "target": "Aurelion Sol"
+    },
+    {
+      "source": "Zoe",
+      "target": "Pantheon"
+    },
+    {
+      "source": "Zyra",
+      "target": "Ivern"
+    },
+    {
+      "source": "Zyra",
+      "target": "Nidalee"
     }
+  ],
+"nodes":[
+  {
+    "Champion": "Aatrox",
+    "Region": "Runeterra",
+    "WebName": "Aatrox",
+    "Img": "assets/Aatrox.png"
+  },
+  {
+    "Champion": "Ahri",
+    "Region": "Ionia",
+    "WebName": "Ahri",
+    "Img": "assets/Ahri.png"
+  },
+  {
+    "Champion": "Akali",
+    "Region": "Ionia",
+    "WebName": "Akali",
+    "Img": "assets/Akali.png"
+  },
+  {
+    "Champion": "Alistar",
+    "Region": "Runeterra",
+    "WebName": "Alistar",
+    "Img": "assets/Alistar.png"
+  },
+  {
+    "Champion": "Amumu",
+    "Region": "Shurima",
+    "WebName": "Amumu",
+    "Img": "assets/Amumu.png"
+  },
+  {
+    "Champion": "Anivia",
+    "Region": "Freljord",
+    "WebName": "Anivia",
+    "Img": "assets/Anivia.png"
+  },
+  {
+    "Champion": "Annie",
+    "Region": "Runeterra",
+    "WebName": "Annie",
+    "Img": "assets/Annie.png"
+  },
+  {
+    "Champion": "Ashe",
+    "Region": "Freljord",
+    "WebName": "Ashe",
+    "Img": "assets/Ashe.png"
+  },
+  {
+    "Champion": "Aurelion Sol",
+    "Region": "Runeterra",
+    "WebName": "Aurelion Sol",
+    "Img": "assets/Aurelion Sol.png"
+  },
+  {
+    "Champion": "Azir",
+    "Region": "Shurima",
+    "WebName": "Azir",
+    "Img": "assets/Azir.png"
+  },
+  {
+    "Champion": "Bard",
+    "Region": "Runeterra",
+    "WebName": "Bard",
+    "Img": "assets/Bard.png"
+  },
+  {
+    "Champion": "Blitzcrank",
+    "Region": "Zaun",
+    "WebName": "Blitzcrank",
+    "Img": "assets/Blitzcrank.png"
+  },
+  {
+    "Champion": "Brand",
+    "Region": "Runeterra",
+    "WebName": "Brand",
+    "Img": "assets/Brand.png"
+  },
+  {
+    "Champion": "Braum",
+    "Region": "Freljord",
+    "WebName": "Braum",
+    "Img": "assets/Braum.png"
+  },
+  {
+    "Champion": "Caitlyn",
+    "Region": "Piltover",
+    "WebName": "Caitlyn",
+    "Img": "assets/Caitlyn.png"
+  },
+  {
+    "Champion": "Camille",
+    "Region": "Piltover",
+    "WebName": "Camille",
+    "Img": "assets/Camille.png"
+  },
+  {
+    "Champion": "Cassiopeia",
+    "Region": "Noxus",
+    "WebName": "Cassiopeia",
+    "Img": "assets/Cassiopeia.png"
+  },
+  {
+    "Champion": "Cho'Gath",
+    "Region": "Void",
+    "WebName": "Cho'Gath",
+    "Img": "assets/Cho'Gath.png"
+  },
+  {
+    "Champion": "Corki",
+    "Region": "Bandle City",
+    "WebName": "Corki",
+    "Img": "assets/Corki.png"
+  },
+  {
+    "Champion": "Darius",
+    "Region": "Noxus",
+    "WebName": "Darius",
+    "Img": "assets/Darius.png"
+  },
+  {
+    "Champion": "Diana",
+    "Region": "Mount Targon",
+    "WebName": "Diana",
+    "Img": "assets/Diana.png"
+  },
+  {
+    "Champion": "Dr. Mundo",
+    "Region": "Zaun",
+    "WebName": "Dr. Mundo",
+    "Img": "assets/Dr. Mundo.png"
+  },
+  {
+    "Champion": "Draven",
+    "Region": "Noxus",
+    "WebName": "Draven",
+    "Img": "assets/Draven.png"
+  },
+  {
+    "Champion": "Ekko",
+    "Region": "Zaun",
+    "WebName": "Ekko",
+    "Img": "assets/Ekko.png"
+  },
+  {
+    "Champion": "Elise",
+    "Region": "Shadow Isles",
+    "WebName": "Elise",
+    "Img": "assets/Elise.png"
+  },
+  {
+    "Champion": "Evelynn",
+    "Region": "Shadow Isles",
+    "WebName": "Evelynn",
+    "Img": "assets/Evelynn.png"
+  },
+  {
+    "Champion": "Ezreal",
+    "Region": "Piltover",
+    "WebName": "Ezreal",
+    "Img": "assets/Ezreal.png"
+  },
+  {
+    "Champion": "Fiddlesticks",
+    "Region": "Runeterra",
+    "WebName": "Fiddlesticks",
+    "Img": "assets/Fiddlesticks.png"
+  },
+  {
+    "Champion": "Fiora",
+    "Region": "Demacia",
+    "WebName": "Fiora",
+    "Img": "assets/Fiora.png"
+  },
+  {
+    "Champion": "Fizz",
+    "Region": "Runeterra",
+    "WebName": "Fizz",
+    "Img": "assets/Fizz.png"
+  },
+  {
+    "Champion": "Galio",
+    "Region": "Demacia",
+    "WebName": "Galio",
+    "Img": "assets/Galio.png"
+  },
+  {
+    "Champion": "Gangplank",
+    "Region": "Bligewater",
+    "WebName": "Gangplank",
+    "Img": "assets/Gangplank.png"
+  },
+  {
+    "Champion": "Garen",
+    "Region": "Demacia",
+    "WebName": "Garen",
+    "Img": "assets/Garen.png"
+  },
+  {
+    "Champion": "Gnar",
+    "Region": "Runeterra",
+    "WebName": "Gnar",
+    "Img": "assets/Gnar.png"
+  },
+  {
+    "Champion": "Gragas",
+    "Region": "Runeterra",
+    "WebName": "Gragas",
+    "Img": "assets/Gragas.png"
+  },
+  {
+    "Champion": "Graves",
+    "Region": "Bligewater",
+    "WebName": "Graves",
+    "Img": "assets/Graves.png"
+  },
+  {
+    "Champion": "Hecarim",
+    "Region": "Shadow Isles",
+    "WebName": "Hecarim",
+    "Img": "assets/Hecarim.png"
+  },
+  {
+    "Champion": "Heimerdinger",
+    "Region": "Piltover",
+    "WebName": "Heimerdinger",
+    "Img": "assets/Heimerdinger.png"
+  },
+  {
+    "Champion": "Illaoi",
+    "Region": "Bligewater",
+    "WebName": "Illaoi",
+    "Img": "assets/Illaoi.png"
+  },
+  {
+    "Champion": "Irelia",
+    "Region": "Ionia",
+    "WebName": "Irelia",
+    "Img": "assets/Irelia.png"
+  },
+  {
+    "Champion": "Ivern",
+    "Region": "Runeterra",
+    "WebName": "Ivern",
+    "Img": "assets/Ivern.png"
+  },
+  {
+    "Champion": "Janna",
+    "Region": "Zaun",
+    "WebName": "Janna",
+    "Img": "assets/Janna.png"
+  },
+  {
+    "Champion": "Jarvan IV",
+    "Region": "Demacia",
+    "WebName": "Jarvan IV",
+    "Img": "assets/Jarvan IV.png"
+  },
+  {
+    "Champion": "Jax",
+    "Region": "Runeterra",
+    "WebName": "Jax",
+    "Img": "assets/Jax.png"
+  },
+  {
+    "Champion": "Jayce",
+    "Region": "Piltover",
+    "WebName": "Jayce",
+    "Img": "assets/Jayce.png"
+  },
+  {
+    "Champion": "Jhin",
+    "Region": "Ionia",
+    "WebName": "Jhin",
+    "Img": "assets/Jhin.png"
+  },
+  {
+    "Champion": "Jinx",
+    "Region": "Zaun",
+    "WebName": "Jinx",
+    "Img": "assets/Jinx.png"
+  },
+  {
+    "Champion": "Kai'Sa",
+    "Region": "Void",
+    "WebName": "Kai'Sa",
+    "Img": "assets/Kai'Sa.png"
+  },
+  {
+    "Champion": "Kalista",
+    "Region": "Shadow Isles",
+    "WebName": "Kalista",
+    "Img": "assets/Kalista.png"
+  },
+  {
+    "Champion": "Karma",
+    "Region": "Ionia",
+    "WebName": "Karma",
+    "Img": "assets/Karma.png"
+  },
+  {
+    "Champion": "Karthus",
+    "Region": "Shadow Isles",
+    "WebName": "Karthus",
+    "Img": "assets/Karthus.png"
+  },
+  {
+    "Champion": "Kassadin",
+    "Region": "Void",
+    "WebName": "Kassadin",
+    "Img": "assets/Kassadin.png"
+  },
+  {
+    "Champion": "Katarina",
+    "Region": "Noxus",
+    "WebName": "Katarina",
+    "Img": "assets/Katarina.png"
+  },
+  {
+    "Champion": "Kayle",
+    "Region": "Demacia",
+    "WebName": "Kayle",
+    "Img": "assets/Kayle.png"
+  },
+  {
+    "Champion": "Kayn",
+    "Region": "Ionia",
+    "WebName": "Kayn",
+    "Img": "assets/Kayn.png"
+  },
+  {
+    "Champion": "Kennen",
+    "Region": "Ionia",
+    "WebName": "Kennen",
+    "Img": "assets/Kennen.png"
+  },
+  {
+    "Champion": "Kha'Zix",
+    "Region": "Void",
+    "WebName": "Kha'Zix",
+    "Img": "assets/Kha'Zix.png"
+  },
+  {
+    "Champion": "Kindred",
+    "Region": "Runeterra",
+    "WebName": "Kindred",
+    "Img": "assets/Kindred.png"
+  },
+  {
+    "Champion": "Kled",
+    "Region": "Noxus",
+    "WebName": "Kled",
+    "Img": "assets/Kled.png"
+  },
+  {
+    "Champion": "Kog'Maw",
+    "Region": "Void",
+    "WebName": "Kog'Maw",
+    "Img": "assets/Kog'Maw.png"
+  },
+  {
+    "Champion": "Leblanc",
+    "Region": "Noxus",
+    "WebName": "LeBlanc",
+    "Img": "assets/LeBlanc.png"
+  },
+  {
+    "Champion": "Lee Sin",
+    "Region": "Ionia",
+    "WebName": "Lee Sin",
+    "Img": "assets/Lee Sin.png"
+  },
+  {
+    "Champion": "Leona",
+    "Region": "Mount Targon",
+    "WebName": "Leona",
+    "Img": "assets/Leona.png"
+  },
+  {
+    "Champion": "Lissandra",
+    "Region": "Freljord",
+    "WebName": "Lissandra",
+    "Img": "assets/Lissandra.png"
+  },
+  {
+    "Champion": "Lucian",
+    "Region": "Demacia",
+    "WebName": "Lucian",
+    "Img": "assets/Lucian.png"
+  },
+  {
+    "Champion": "Lulu",
+    "Region": "Bandle City",
+    "WebName": "Lulu",
+    "Img": "assets/Lulu.png"
+  },
+  {
+    "Champion": "Lux",
+    "Region": "Demacia",
+    "WebName": "Lux",
+    "Img": "assets/Lux.png"
+  },
+  {
+    "Champion": "Malphite",
+    "Region": "Runeterra",
+    "WebName": "Malphite",
+    "Img": "assets/Malphite.png"
+  },
+  {
+    "Champion": "Malzahar",
+    "Region": "Void",
+    "WebName": "Malzahar",
+    "Img": "assets/Malzahar.png"
+  },
+  {
+    "Champion": "Maokai",
+    "Region": "Shadow Isles",
+    "WebName": "Maokai",
+    "Img": "assets/Maokai.png"
+  },
+  {
+    "Champion": "Master Yi",
+    "Region": "Ionia",
+    "WebName": "Master Yi",
+    "Img": "assets/Master Yi.png"
+  },
+  {
+    "Champion": "Miss Fortune",
+    "Region": "Bligewater",
+    "WebName": "Miss Fortune",
+    "Img": "assets/Miss Fortune.png"
+  },
+  {
+    "Champion": "Mordekaiser",
+    "Region": "Shadow Isles",
+    "WebName": "Mordekaiser",
+    "Img": "assets/Mordekaiser.png"
+  },
+  {
+    "Champion": "Morgana",
+    "Region": "Demacia",
+    "WebName": "Morgana",
+    "Img": "assets/Morgana.png"
+  },
+  {
+    "Champion": "Nami",
+    "Region": "Runeterra",
+    "WebName": "Nami",
+    "Img": "assets/Nami.png"
+  },
+  {
+    "Champion": "Nasus",
+    "Region": "Shurima",
+    "WebName": "Nasus",
+    "Img": "assets/Nasus.png"
+  },
+  {
+    "Champion": "Nautilus",
+    "Region": "Bligewater",
+    "WebName": "Nautilus",
+    "Img": "assets/Nautilus.png"
+  },
+  {
+    "Champion": "Neeko",
+    "Region": "Runeterra",
+    "WebName": "Neeko",
+    "Img": "assets/Neeko.png"
+  },
+  {
+    "Champion": "Nidalee",
+    "Region": "Runeterra",
+    "WebName": "Nidalee",
+    "Img": "assets/Nidalee.png"
+  },
+  {
+    "Champion": "Nocturne",
+    "Region": "Runeterra",
+    "WebName": "Nocturne",
+    "Img": "assets/Nocturne.png"
+  },
+  {
+    "Champion": "Nunu & Willump",
+    "Region": "Freljord",
+    "WebName": "Nunu",
+    "Img": "assets/Nunu.png"
+  },
+  {
+    "Champion": "Olaf",
+    "Region": "Freljord",
+    "WebName": "Olaf",
+    "Img": "assets/Olaf.png"
+  },
+  {
+    "Champion": "Orianna",
+    "Region": "Piltover",
+    "WebName": "Orianna",
+    "Img": "assets/Orianna.png"
+  },
+  {
+    "Champion": "Ornn",
+    "Region": "Freljord",
+    "WebName": "Ornn",
+    "Img": "assets/Ornn.png"
+  },
+  {
+    "Champion": "Pantheon",
+    "Region": "Mount Targon",
+    "WebName": "Pantheon",
+    "Img": "assets/Pantheon.png"
+  },
+  {
+    "Champion": "Poppy",
+    "Region": "Demacia",
+    "WebName": "Poppy",
+    "Img": "assets/Poppy.png"
+  },
+  {
+    "Champion": "Pyke",
+    "Region": "Bligewater",
+    "WebName": "Pyke",
+    "Img": "assets/Pyke.png"
+  },
+  {
+    "Champion": "Quinn",
+    "Region": "Demacia",
+    "WebName": "Quinn",
+    "Img": "assets/Quinn.png"
+  },
+  {
+    "Champion": "Rakan",
+    "Region": "Ionia",
+    "WebName": "Rakan",
+    "Img": "assets/Rakan.png"
+  },
+  {
+    "Champion": "Rammus",
+    "Region": "Shurima",
+    "WebName": "Rammus",
+    "Img": "assets/Rammus.png"
+  },
+  {
+    "Champion": "Rek'Sai",
+    "Region": "Void",
+    "WebName": "Rek'Sai",
+    "Img": "assets/Rek'Sai.png"
+  },
+  {
+    "Champion": "Renekton",
+    "Region": "Shurima",
+    "WebName": "Renekton",
+    "Img": "assets/Renekton.png"
+  },
+  {
+    "Champion": "Rengar",
+    "Region": "Runeterra",
+    "WebName": "Rengar",
+    "Img": "assets/Rengar.png"
+  },
+  {
+    "Champion": "Riven",
+    "Region": "Noxus",
+    "WebName": "Riven",
+    "Img": "assets/Riven.png"
+  },
+  {
+    "Champion": "Rumble",
+    "Region": "Bandle City",
+    "WebName": "Rumble",
+    "Img": "assets/Rumble.png"
+  },
+  {
+    "Champion": "Ryze",
+    "Region": "Runeterra",
+    "WebName": "Ryze",
+    "Img": "assets/Ryze.png"
+  },
+  {
+    "Champion": "Sejuani",
+    "Region": "Freljord",
+    "WebName": "Sejuani",
+    "Img": "assets/Sejuani.png"
+  },
+  {
+    "Champion": "Shaco",
+    "Region": "Runeterra",
+    "WebName": "Shaco",
+    "Img": "assets/Shaco.png"
+  },
+  {
+    "Champion": "Shen",
+    "Region": "Ionia",
+    "WebName": "Shen",
+    "Img": "assets/Shen.png"
+  },
+  {
+    "Champion": "Shyvana",
+    "Region": "Demacia",
+    "WebName": "Shyvana",
+    "Img": "assets/Shyvana.png"
+  },
+  {
+    "Champion": "Singed",
+    "Region": "Zaun",
+    "WebName": "Singed",
+    "Img": "assets/Singed.png"
+  },
+  {
+    "Champion": "Sion",
+    "Region": "Noxus",
+    "WebName": "Sion",
+    "Img": "assets/Sion.png"
+  },
+  {
+    "Champion": "Sivir",
+    "Region": "Shurima",
+    "WebName": "Sivir",
+    "Img": "assets/Sivir.png"
+  },
+  {
+    "Champion": "Skarner",
+    "Region": "Shurima",
+    "WebName": "Skarner",
+    "Img": "assets/Skarner.png"
+  },
+  {
+    "Champion": "Sona",
+    "Region": "Demacia",
+    "WebName": "Sona",
+    "Img": "assets/Sona.png"
+  },
+  {
+    "Champion": "Soraka",
+    "Region": "Ionia",
+    "WebName": "Soraka",
+    "Img": "assets/Soraka.png"
+  },
+  {
+    "Champion": "Swain",
+    "Region": "Noxus",
+    "WebName": "Swain",
+    "Img": "assets/Swain.png"
+  },
+  {
+    "Champion": "Sylas",
+    "Region": "Demacia",
+    "WebName": "Sylas",
+    "Img": "assets/Sylas.png"
+  },
+  {
+    "Champion": "Syndra",
+    "Region": "Ionia",
+    "WebName": "Syndra",
+    "Img": "assets/Syndra.png"
+  },
+  {
+    "Champion": "Tahm Kench",
+    "Region": "Runeterra",
+    "WebName": "Tahm Kench",
+    "Img": "assets/Tahm Kench.png"
+  },
+  {
+    "Champion": "Taliyah",
+    "Region": "Shurima",
+    "WebName": "Taliyah",
+    "Img": "assets/Taliyah.png"
+  },
+  {
+    "Champion": "Talon",
+    "Region": "Noxus",
+    "WebName": "Talon",
+    "Img": "assets/Talon.png"
+  },
+  {
+    "Champion": "Taric",
+    "Region": "Mount Targon",
+    "WebName": "Taric",
+    "Img": "assets/Taric.png"
+  },
+  {
+    "Champion": "Teemo",
+    "Region": "Bandle City",
+    "WebName": "Teemo",
+    "Img": "assets/Teemo.png"
+  },
+  {
+    "Champion": "Thresh",
+    "Region": "Shadow Isles",
+    "WebName": "Thresh",
+    "Img": "assets/Thresh.png"
+  },
+  {
+    "Champion": "Tristana",
+    "Region": "Bandle City",
+    "WebName": "Tristana",
+    "Img": "assets/Tristana.png"
+  },
+  {
+    "Champion": "Trundle",
+    "Region": "Freljord",
+    "WebName": "Trundle",
+    "Img": "assets/Trundle.png"
+  },
+  {
+    "Champion": "Tryndamere",
+    "Region": "Freljord",
+    "WebName": "Tryndamere",
+    "Img": "assets/Tryndamere.png"
+  },
+  {
+    "Champion": "Twisted Fate",
+    "Region": "Bligewater",
+    "WebName": "Twisted Fate",
+    "Img": "assets/Twisted Fate.png"
+  },
+  {
+    "Champion": "Twitch",
+    "Region": "Zaun",
+    "WebName": "Twitch",
+    "Img": "assets/Twitch.png"
+  },
+  {
+    "Champion": "Udyr",
+    "Region": "Freljord",
+    "WebName": "Udyr",
+    "Img": "assets/Udyr.png"
+  },
+  {
+    "Champion": "Urgot",
+    "Region": "Zaun",
+    "WebName": "Urgot",
+    "Img": "assets/Urgot.png"
+  },
+  {
+    "Champion": "Varus",
+    "Region": "Ionia",
+    "WebName": "Varus",
+    "Img": "assets/Varus.png"
+  },
+  {
+    "Champion": "Vayne",
+    "Region": "Demacia",
+    "WebName": "Vayne",
+    "Img": "assets/Vayne.png"
+  },
+  {
+    "Champion": "Veigar",
+    "Region": "Bandle City",
+    "WebName": "Veigar",
+    "Img": "assets/Veigar.png"
+  },
+  {
+    "Champion": "Vel'Koz",
+    "Region": "Void",
+    "WebName": "Vel'Koz",
+    "Img": "assets/Vel'Koz.png"
+  },
+  {
+    "Champion": "Vi",
+    "Region": "Piltover",
+    "WebName": "Vi",
+    "Img": "assets/Vi.png"
+  },
+  {
+    "Champion": "Viktor",
+    "Region": "Zaun",
+    "WebName": "Viktor",
+    "Img": "assets/Viktor.png"
+  },
+  {
+    "Champion": "Vladimir",
+    "Region": "Noxus",
+    "WebName": "Vladimir",
+    "Img": "assets/Vladimir.png"
+  },
+  {
+    "Champion": "Volibear",
+    "Region": "Freljord",
+    "WebName": "Volibear",
+    "Img": "assets/Volibear.png"
+  },
+  {
+    "Champion": "Warwick",
+    "Region": "Zaun",
+    "WebName": "Warwick",
+    "Img": "assets/Warwick.png"
+  },
+  {
+    "Champion": "Wukong",
+    "Region": "Ionia",
+    "WebName": "Wukong",
+    "Img": "assets/Wukong.png"
+  },
+  {
+    "Champion": "Xayah",
+    "Region": "Ionia",
+    "WebName": "Xayah",
+    "Img": "assets/Xayah.png"
+  },
+  {
+    "Champion": "Xerath",
+    "Region": "Shurima",
+    "WebName": "Xerath",
+    "Img": "assets/Xerath.png"
+  },
+  {
+    "Champion": "Xin Zhao",
+    "Region": "Demacia",
+    "WebName": "Xin Zhao",
+    "Img": "assets/Xin Zhao.png"
+  },
+  {
+    "Champion": "Yasuo",
+    "Region": "Ionia",
+    "WebName": "Yasuo",
+    "Img": "assets/Yasuo.png"
+  },
+  {
+    "Champion": "Yorick",
+    "Region": "Shadow Isles",
+    "WebName": "Yorick",
+    "Img": "assets/Yorick.png"
+  },
+  {
+    "Champion": "Yuumi",
+    "Region": "Bandle City",
+    "WebName": "Yuumi",
+    "Img": "assets/Yuumi.png"
+  },
+  {
+    "Champion": "Zac",
+    "Region": "Zaun",
+    "WebName": "Zac",
+    "Img": "assets/Zac.png"
+  },
+  {
+    "Champion": "Zed",
+    "Region": "Ionia",
+    "WebName": "Zed",
+    "Img": "assets/Zed.png"
+  },
+  {
+    "Champion": "Ziggs",
+    "Region": "Zaun",
+    "WebName": "Ziggs",
+    "Img": "assets/Ziggs.png"
+  },
+  {
+    "Champion": "Zilean",
+    "Region": "Runeterra",
+    "WebName": "Zilean",
+    "Img": "assets/Zilean.png"
+  },
+  {
+    "Champion": "Zoe",
+    "Region": "Mount Targon",
+    "WebName": "Zoe",
+    "Img": "assets/Zoe.png"
+  },
+  {
+    "Champion": "Zyra",
+    "Region": "Shurima",
+    "WebName": "Zyra",
+    "Img": "assets/Zyra.png"
+  }
 ]
 }

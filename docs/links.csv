@@ -1,23 +1,22 @@
 Source,Target
+Aatrox,Kayn
+Aatrox,Varus
 Aatrox,Tryndamere
 Ahri,Wukong
-Akali,Kenen
+Akali,Kennen
 Akali,Shen
 Akali,Zed
 Akali,Jhin
 Alistar,Xin Zhao
-Amumu,Annie
 Anivia,Ashe
 Anivia,Lissandra
-Anivia,Nunu
+Anivia,Nunu & Willump
 Anivia,Brand
 Anivia,Sejuani
 Ashe,Sejuani
 Ashe,Tryndamere
-Ashe,Nunu
 Ashe,Braum
-Ashe,Gragas
-Ashe,Trundle
+Ashe,Lissandra
 Aurelion Sol,Leona
 Aurelion Sol,Diana
 Aurelion Sol,Taric
@@ -31,6 +30,7 @@ Azir,Cassiopeia
 Blitzcrank,Orianna
 Blitzcrank,Viktor
 Brand,Ryze
+Brand,Anivia
 Brand,Lissandra
 Brand,Nasus
 Brand,Renekton
@@ -47,8 +47,8 @@ Caitlyn,Ekko
 Camille,Ezreal
 Camille,Jayce
 Camille,Viktor
-Camille,Ekko
 Camille,Vi
+Camille,Ekko
 Camille,Orianna
 Camille,Warwick
 Cassiopeia,Katarina
@@ -79,23 +79,25 @@ Ekko,Jayce
 Ekko,Janna
 Elise,Leblanc
 Elise,Vladimir
-Evelynn,Twisted Fate
+Evelynn,Vayne
+Evelynn,Tham Kench
+Evelynn,Ryze
+Ezreal,Kassadin
 Ezreal,Lux
-Ezreal,Jayce
+Ezreal,Rek'Sai
 Fiddlesticks,Nocturne
 Fiddlesticks,Shaco
 Fiora,Lux
 Fiora,Jax
 Fiora,Jarvan IV
 Fiora,Garen
+Fizz,Illaoi
 Fizz,Nami
 Fizz,Nautilus
-Galio,Poppy
 Galio,Kayle
-Galio,Shyvana
+Galio,Morgana
 Galio,Lux
-Galio,Ryze
-Galio,Sion
+Galio,Sylas
 Gangplank,Miss Fortune
 Gangplank,Swain
 Gangplank,Zed
@@ -104,38 +106,27 @@ Gangplank,Twisted Fate
 Gangplank,Graves
 Garen,Jarvan IV
 Garen,Lux
-Garen,Xin Zhao
-Garen,Katarina
-Garen,Swain
-Garen,Urgot
 Garen,Quinn
-Garen,Taric
-Gnar,Lulu
-Gnar,Heimerdinger
+Gnar,Nunu & Willump
 Gnar,Rengar
 Gragas,Tryndamere
 Gragas,Jax
+Gragas,Ashe
 Graves,Twisted Fate
 Graves,Miss Fortune
-Hecarim,Mordekaiser
 Hecarim,Yorick
 Hecarim,Thresh
 Hecarim,Kalista
-Hecarim,Miss Fortune
-Hecarim,Lucian
-Hecarim,Illaoi
+Heimerdinger,Corki
+Heimerdinger,Gnar
 Heimerdinger,Ziggs
 Heimerdinger,Rumble
 Heimerdinger,Veigar
 Illaoi,Miss Fortune
 Irelia,Karma
-Irelia,Singed
-Irelia,Syndra
-Irelia,Soraka
+Irelia,Swain
+Jarvan IV,Garen
 Jarvan IV,Shyvana
-Jarvan IV,Quinn
-Jarvan IV,Urgot
-Jarvan IV,Swain
 Jarvan IV,Xin Zhao
 Jarvan IV,Lux
 Jayce,Vi
@@ -143,12 +134,13 @@ Jayce,Viktor
 Jayce,Skarner
 Jhin,Shen
 Jhin,Zed
+Jhin,Akali
 Jinx,Vi
+Kai'Sa,Malzahar
 Kalista,Yorick
 Kalista,Thresh
 Kalista,Mordekaiser
 Karma,Lee Sin
-Karma,Syndra
 Karthus,Mordekaiser
 Karthus,Thresh
 Karthus,Yorick
@@ -157,9 +149,11 @@ Karthus,Kindred
 Kassadin,Malzahar
 Katarina,Sion
 Katarina,Talon
+Katarina,Garen
 Katarina,Swain
+Kayle,Taric
 Kayle,Morgana
-Kayn,Aatrox
+Kayn,Varus
 Kayn,Zed
 Kayn,Darius
 Kennen,Shen
@@ -175,10 +169,8 @@ Leblanc,Swain
 Lee Sin,Udyr
 Leona,Taric
 Leona,Pantheon
-Lissandra,Trundle
-Lissandra,Udyr
 Lissandra,Sejuani
-Lissandra,Tryndamere
+Lissandra,Nunu & Willump
 Lucian,Thresh
 Lucian,Miss Fortune
 Lucian,Olaf
@@ -186,7 +178,6 @@ Lulu,Veigar
 Lux,Xin Zhao
 Malphite,Maokai
 Malphite,Skarner
-Malzahar,Ryze
 Maokai,Zyra
 Maokai,Yorick
 Master Yi,Wukong
@@ -194,28 +185,39 @@ Master Yi,Singed
 Miss Fortune,Twisted Fate
 Miss Fortune,Olaf
 Miss Fortune,Ryze
+Morgana,Taric
 Nami,Nautilus
 Nasus,Sivir
 Nasus,Xerath
 Nasus,Renekton
 Nasus,Taliyah
 Nasus,Ryze
-Nidalee,Udyr
+Nautilus,Tham Kench
+Neeko,Nidalee
+Neeko,Rengar
+Neeko,Ezreal
 Nidalee,Rengar
-Nocturne,Shaco
+Nocturne,Evelynn
+Nocturne,Tham Kench
+Nocturne,Zed
+Nunu & Willump,Lissandra
 Olaf,Sejuani
 Olaf,Volibear
 Orianna,Viktor
+Ornn,Volibear
+Ornn,Anivia
 Pantheon,Taric
 Poppy,Shyvana
+Pyke,Gangplank
+Pyke,Miss Fortune
 Quinn,Talon
 Rakan,Xayah
 Rakan,Zed
 Rakan,Lee Sin
 Rek'Sai,Skarner
-Renekton,Sivir
 Renekton,Xerath
-Riven,Singed
+Renekton,Sivir
+Riven,Leblanc
 Riven,Yasuo
 Rumble,Tristana
 Rumble,Ziggs
@@ -223,40 +225,64 @@ Rumble,Teemo
 Rumble,Veigar
 Ryze,Trundle
 Ryze,Sona
-Sejuani,Udyr
-Sejuani,Volibear
-Sejuani,Tryndamere
-Sejuani,Trundle
+Ryze,Malzahar
+Shaco,Nocturne
 Shen,Zed
+Shyvana,Sona
 Shyvana,Xin Zhao
 Singed,Warwick
+Singed,Irelia
+Singed,Riven
 Sion,Swain
+Sion,Jarvan IV
+Sion,Galio
 Sion,Vayne
 Sion,Urgot
 Sivir,Taliyah
-Sivir,Xerath
 Sona,Taric
 Sona,Xin Zhao
+Soraka,Aurelion Sol
+Soraka,Syndra
+Soraka,Warwick
 Swain,Vladimir
-Syndra,Zed
+Sylas,Lux
+Sylas,Galio
+Syndra,Irelia
+Syndra,Karma
+Tham Kench,Fizz
+Tham Kench,Pyke
 Taliyah,Yasuo
 Taliyah,Xerath
+Taric,Garen
 Teemo,Tristana
 Teemo,Veigar
 Thresh,Yorick
+Trundle,Ashe
+Trundle,Lissandra
+Trundle,Sejuani
 Twitch,Zac
-Urgot,Camille
+Udyr,Sejuani
+Udyr,Lissandra
 Urgot,Swain
 Urgot,Ekko
+Urgot,Camille
 Urgot,Darius
 Vayne,Vladimir
 Vayne,Warwick
-Veigar,Kled
-Veigar,Ziggs
+Veigar,Mordekaiser
+Veigar,Leblanc
+Vel'Koz,Rek'Sai
 Viktor,Urgot
+Vladimir,Kayn
+Volibear,Sejuani
 Volibear,Zilean
 Xayah,Zed
 Xayah,Lee Sin
+Yuumi,Lulu
+Yuumi,Tristana
+Yuumi,Teemo
 Zilean,Vel'Koz
-Ornn,Volibear
-Ornn,Anivia
+Zoe,Aurelion Sol
+Zoe,Pantheon
+Zyra,Ivern
+Zyra,Nidalee

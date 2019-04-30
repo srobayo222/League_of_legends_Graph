@@ -1,1 +1,145 @@
-Champion,Region,,,,,,Aatrox,Runeterra,,,,,,Ahri,Ionia,,,,,,Akali,Ionia,,,,,,Alistar,Runeterra,,,,,,Amumu,Shurima,,,,,,Anivia,Freljord,,,,,,Annie,Runeterra,,,,,,Ashe,Freljord,,,,,,Aurelion Sol,Runeterra,,,,,,Azir,Shurima,,,,,,Bard,Runeterra,,,,,,Blitzcrank,Zaun,,,,,,Brand,Runeterra,,,,,,Braum,Freljord,,,,,,Caitlyn,Piltover,,,,,,Camille,Piltover,,,,,,Cassiopeia,Noxus,,,,,,Cho'Gath,Void,,,,,,Corki,Bandle City,,,,,,Darius,Noxus,,,,,,Diana,Mount Targon,,,,,,Dr. Mundo,Zaun,,,,,,Draven,Noxus,,,,,,Ekko,Zaun,,,,,,Elise,Shadow Isles,,,,,,Evelynn,Shadow Isles,,,,,,Ezreal,Piltover,,,,,,Fiddlesticks,Runeterra,,,,,,Fiora,Demacia,,,,,,Fizz,Runeterra,,,,,,Galio,Demacia,,,,,,Gangplank,Bligewater,,,,,,Garen,Demacia,,,,,,Gnar,Runeterra,,,,,,Gragas,Runeterra,,,,,,Graves,Bligewater,,,,,,Hecarim,Shadow Isles,,,,,,Heimerdinger,Piltover,,,,,,Illaoi,Bligewater,,,,,,Irelia,Ionia,,,,,,Ivern,Runeterra,,,,,,Janna,Zaun,,,,,,Jarvan IV,Demacia,,,,,,Jax,Runeterra,,,,,,Jayce,Piltover,,,,,,Jhin,Ionia,,,,,,Jinx,Zaun,,,,,,Kalista,Shadow Isles,,,,,,Karma,Ionia,,,,,,Karthus,Shadow Isles,,,,,,Kassadin,Void,,,,,,Katarina,Noxus,,,,,,Kayle,Runeterra,,,,,,Kayn,Ionia,,,,,,Kennen,Ionia,,,,,,Kha'Zix,Void,,,,,,Kindred,Runeterra,,,,,,Kled,Noxus,,,,,,Kog'Maw,Void,,,,,,Leblanc,Noxus,,,,,,Lee Sin,Ionia,,,,,,Leona,Mount Targon,,,,,,Lissandra,Freljord,,,,,,Lucian,Demacia,,,,,,Lulu,Bandle City,,,,,,Lux,Demacia,,,,,,Malphite,Runeterra,,,,,,Malzahar,Void,,,,,,Maokai,Shadow Isles,,,,,,Master Yi,Ionia,,,,,,Miss Fortune,Bligewater,,,,,,Mordekaiser,Shadow Isles,,,,,,Morgana,Runeterra,,,,,,Nami,Runeterra,,,,,,Nasus,Shurima,,,,,,Nautilus,Bligewater,,,,,,Nidalee,Runeterra,,,,,,Nocturne,Runeterra,,,,,,Nunu,Freljord,,,,,,Olaf,Freljord,,,,,,Orianna,Piltover,,,,,,Pantheon,Mount Targon,,,,,,Poppy,Demacia,,,,,,Quinn,Demacia,,,,,,Rakan,Ionia,,,,,,Rammus,Shurima,,,,,,Rek'Sai,Void,,,,,,Renekton,Shurima,,,,,,Rengar,Runeterra,,,,,,Riven,Noxus,,,,,,Rumble,Bandle City,,,,,,Ryze,Runeterra,,,,,,Sejuani,Freljord,,,,,,Shaco,Runeterra,,,,,,Shen,Ionia,,,,,,Shyvana,Demacia,,,,,,Singed,Zaun,,,,,,Sion,Noxus,,,,,,Sivir,Shurima,,,,,,Skarner,Shurima,,,,,,Sona,Demacia,,,,,,Soraka,Ionia,,,,,,Swain,Noxus,,,,,,Syndra,Ionia,,,,,,Tahm Kench,Runeterra,,,,,,Taliyah,Shurima,,,,,,Talon,Noxus,,,,,,Taric,Mount Targon,,,,,,Teemo,Bandle City,,,,,,Thresh,Shadow Isles,,,,,,Tristana,Bandle City,,,,,,Trundle,Freljord,,,,,,Tryndamere,Freljord,,,,,,Twisted Fate,Bligewater,,,,,,Twitch,Zaun,,,,,,Udyr,Freljord,,,,,,Urgot,Zaun,,,,,,Varus,Ionia,,,,,,Vayne,Demacia,,,,,,Veigar,Bandle City,,,,,,Vel'Koz,Void,,,,,,Vi,Piltover,,,,,,Viktor,Zaun,,,,,,Vladimir,Noxus,,,,,,Volibear,Freljord,,,,,,Warwick,Zaun,,,,,,Wukong,Ionia,,,,,,Xayah,Ionia,,,,,,Xerath,Shurima,,,,,,Xin Zhao,Demacia,,,,,,Yasuo,Ionia,,,,,,Yorick,Shadow Isles,,,,,,Zac,Zaun,,,,,,Zed,Ionia,,,,,,Ziggs,Piltover,,,,,,Zilean,Runeterra,,,,,,Zyra,Runeterra,,,,,,Ornn,Freljord,,,,,,
+Champion,Region,WebName,Img
+Aatrox,Runeterra,Aatrox,assets/Aatrox.png
+Ahri,Ionia,Ahri,assets/Ahri.png
+Akali,Ionia,Akali,assets/Akali.png
+Alistar,Runeterra,Alistar,assets/Alistar.png
+Amumu,Shurima,Amumu,assets/Amumu.png
+Anivia,Freljord,Anivia,assets/Anivia.png
+Annie,Runeterra,Annie,assets/Annie.png
+Ashe,Freljord,Ashe,assets/Ashe.png
+Aurelion Sol,Runeterra,Aurelion Sol,assets/Aurelion Sol.png
+Azir,Shurima,Azir,assets/Azir.png
+Bard,Runeterra,Bard,assets/Bard.png
+Blitzcrank,Zaun,Blitzcrank,assets/Blitzcrank.png
+Brand,Runeterra,Brand,assets/Brand.png
+Braum,Freljord,Braum,assets/Braum.png
+Caitlyn,Piltover,Caitlyn,assets/Caitlyn.png
+Camille,Piltover,Camille,assets/Camille.png
+Cassiopeia,Noxus,Cassiopeia,assets/Cassiopeia.png
+Cho'Gath,Void,Cho'Gath,assets/Cho'Gath.png
+Corki,Bandle City,Corki,assets/Corki.png
+Darius,Noxus,Darius,assets/Darius.png
+Diana,Mount Targon,Diana,assets/Diana.png
+Dr. Mundo,Zaun,Dr. Mundo,assets/Dr. Mundo.png
+Draven,Noxus,Draven,assets/Draven.png
+Ekko,Zaun,Ekko,assets/Ekko.png
+Elise,Shadow Isles,Elise,assets/Elise.png
+Evelynn,Shadow Isles,Evelynn,assets/Evelynn.png
+Ezreal,Piltover,Ezreal,assets/Ezreal.png
+Fiddlesticks,Runeterra,Fiddlesticks,assets/Fiddlesticks.png
+Fiora,Demacia,Fiora,assets/Fiora.png
+Fizz,Runeterra,Fizz,assets/Fizz.png
+Galio,Demacia,Galio,assets/Galio.png
+Gangplank,Bligewater,Gangplank,assets/Gangplank.png
+Garen,Demacia,Garen,assets/Garen.png
+Gnar,Runeterra,Gnar,assets/Gnar.png
+Gragas,Runeterra,Gragas,assets/Gragas.png
+Graves,Bligewater,Graves,assets/Graves.png
+Hecarim,Shadow Isles,Hecarim,assets/Hecarim.png
+Heimerdinger,Piltover,Heimerdinger,assets/Heimerdinger.png
+Illaoi,Bligewater,Illaoi,assets/Illaoi.png
+Irelia,Ionia,Irelia,assets/Irelia.png
+Ivern,Runeterra,Ivern,assets/Ivern.png
+Janna,Zaun,Janna,assets/Janna.png
+Jarvan IV,Demacia,Jarvan IV,assets/Jarvan IV.png
+Jax,Runeterra,Jax,assets/Jax.png
+Jayce,Piltover,Jayce,assets/Jayce.png
+Jhin,Ionia,Jhin,assets/Jhin.png
+Jinx,Zaun,Jinx,assets/Jinx.png
+Kai'Sa,Void,Kai'Sa,assets/Kai'Sa.png
+Kalista,Shadow Isles,Kalista,assets/Kalista.png
+Karma,Ionia,Karma,assets/Karma.png
+Karthus,Shadow Isles,Karthus,assets/Karthus.png
+Kassadin,Void,Kassadin,assets/Kassadin.png
+Katarina,Noxus,Katarina,assets/Katarina.png
+Kayle,Demacia,Kayle,assets/Kayle.png
+Kayn,Ionia,Kayn,assets/Kayn.png
+Kennen,Ionia,Kennen,assets/Kennen.png
+Kha'Zix,Void,Kha'Zix,assets/Kha'Zix.png
+Kindred,Runeterra,Kindred,assets/Kindred.png
+Kled,Noxus,Kled,assets/Kled.png
+Kog'Maw,Void,Kog'Maw,assets/Kog'Maw.png
+Leblanc,Noxus,LeBlanc,assets/LeBlanc.png
+Lee Sin,Ionia,Lee Sin,assets/Lee Sin.png
+Leona,Mount Targon,Leona,assets/Leona.png
+Lissandra,Freljord,Lissandra,assets/Lissandra.png
+Lucian,Demacia,Lucian,assets/Lucian.png
+Lulu,Bandle City,Lulu,assets/Lulu.png
+Lux,Demacia,Lux,assets/Lux.png
+Malphite,Runeterra,Malphite,assets/Malphite.png
+Malzahar,Void,Malzahar,assets/Malzahar.png
+Maokai,Shadow Isles,Maokai,assets/Maokai.png
+Master Yi,Ionia,Master Yi,assets/Master Yi.png
+Miss Fortune,Bligewater,Miss Fortune,assets/Miss Fortune.png
+Mordekaiser,Shadow Isles,Mordekaiser,assets/Mordekaiser.png
+Morgana,Demacia,Morgana,assets/Morgana.png
+Nami,Runeterra,Nami,assets/Nami.png
+Nasus,Shurima,Nasus,assets/Nasus.png
+Nautilus,Bligewater,Nautilus,assets/Nautilus.png
+Neeko,Runeterra,Neeko,assets/Neeko.png
+Nidalee,Runeterra,Nidalee,assets/Nidalee.png
+Nocturne,Runeterra,Nocturne,assets/Nocturne.png
+Nunu & Willump,Freljord,Nunu,assets/Nunu.png
+Olaf,Freljord,Olaf,assets/Olaf.png
+Orianna,Piltover,Orianna,assets/Orianna.png
+Ornn,Freljord,Ornn,assets/Ornn.png
+Pantheon,Mount Targon,Pantheon,assets/Pantheon.png
+Poppy,Demacia,Poppy,assets/Poppy.png
+Pyke,Bligewater,Pyke,assets/Pyke.png
+Quinn,Demacia,Quinn,assets/Quinn.png
+Rakan,Ionia,Rakan,assets/Rakan.png
+Rammus,Shurima,Rammus,assets/Rammus.png
+Rek'Sai,Void,Rek'Sai,assets/Rek'Sai.png
+Renekton,Shurima,Renekton,assets/Renekton.png
+Rengar,Runeterra,Rengar,assets/Rengar.png
+Riven,Noxus,Riven,assets/Riven.png
+Rumble,Bandle City,Rumble,assets/Rumble.png
+Ryze,Runeterra,Ryze,assets/Ryze.png
+Sejuani,Freljord,Sejuani,assets/Sejuani.png
+Shaco,Runeterra,Shaco,assets/Shaco.png
+Shen,Ionia,Shen,assets/Shen.png
+Shyvana,Demacia,Shyvana,assets/Shyvana.png
+Singed,Zaun,Singed,assets/Singed.png
+Sion,Noxus,Sion,assets/Sion.png
+Sivir,Shurima,Sivir,assets/Sivir.png
+Skarner,Shurima,Skarner,assets/Skarner.png
+Sona,Demacia,Sona,assets/Sona.png
+Soraka,Ionia,Soraka,assets/Soraka.png
+Swain,Noxus,Swain,assets/Swain.png
+Sylas,Demacia,Sylas,assets/Sylas.png
+Syndra,Ionia,Syndra,assets/Syndra.png
+Tahm Kench,Runeterra,Tahm Kench,assets/Tahm Kench.png
+Taliyah,Shurima,Taliyah,assets/Taliyah.png
+Talon,Noxus,Talon,assets/Talon.png
+Taric,Mount Targon,Taric,assets/Taric.png
+Teemo,Bandle City,Teemo,assets/Teemo.png
+Thresh,Shadow Isles,Thresh,assets/Thresh.png
+Tristana,Bandle City,Tristana,assets/Tristana.png
+Trundle,Freljord,Trundle,assets/Trundle.png
+Tryndamere,Freljord,Tryndamere,assets/Tryndamere.png
+Twisted Fate,Bligewater,Twisted Fate,assets/Twisted Fate.png
+Twitch,Zaun,Twitch,assets/Twitch.png
+Udyr,Freljord,Udyr,assets/Udyr.png
+Urgot,Zaun,Urgot,assets/Urgot.png
+Varus,Ionia,Varus,assets/Varus.png
+Vayne,Demacia,Vayne,assets/Vayne.png
+Veigar,Bandle City,Veigar,assets/Veigar.png
+Vel'Koz,Void,Vel'Koz,assets/Vel'Koz.png
+Vi,Piltover,Vi,assets/Vi.png
+Viktor,Zaun,Viktor,assets/Viktor.png
+Vladimir,Noxus,Vladimir,assets/Vladimir.png
+Volibear,Freljord,Volibear,assets/Volibear.png
+Warwick,Zaun,Warwick,assets/Warwick.png
+Wukong,Ionia,Wukong,assets/Wukong.png
+Xayah,Ionia,Xayah,assets/Xayah.png
+Xerath,Shurima,Xerath,assets/Xerath.png
+Xin Zhao,Demacia,Xin Zhao,assets/Xin Zhao.png
+Yasuo,Ionia,Yasuo,assets/Yasuo.png
+Yorick,Shadow Isles,Yorick,assets/Yorick.png
+Yuumi,Bandle City,Yuumi,assets/Yuumi.png
+Zac,Zaun,Zac,assets/Zac.png
+Zed,Ionia,Zed,assets/Zed.png
+Ziggs,Zaun,Ziggs,assets/Ziggs.png
+Zilean,Runeterra,Zilean,assets/Zilean.png
+Zoe,Mount Targon,Zoe,assets/Zoe.png
+Zyra,Shurima,Zyra,assets/Zyra.png
